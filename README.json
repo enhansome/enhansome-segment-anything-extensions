@@ -1,8 +1,211 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.\nhttps://user-images.githubusercontent.com/870796/231829898-7219aba8-2931-42ae-82a4-9b2a91b02d0a.mp4",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Segment-Any-Anomaly (SAM + GroudingDINO for anomaly detection)Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625767114,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-22T04:57:10Z",
+            "owner": "caoyunkang",
+            "repo": "Segment-Any-Anomaly",
+            "stars": 844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segment Any Point Cloud Sequences (SAM for self-supervised learning on large-scale 3D point clouds) Repo",
+          "description": "ArXiv Page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645318405,
+            "language": "Python",
+            "last_commit": "2023-12-16T13:34:26Z",
+            "owner": "youquanl",
+            "repo": "Segment-Any-Point-Cloud",
+            "stars": 637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sam-mmrotate(use SAM for generating rotated bounding boxes with MMRotate) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625075880,
+            "language": "Python",
+            "last_commit": "2023-07-31T13:46:17Z",
+            "owner": "VisionXLab",
+            "repo": "sam-mmrotate",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RefSAM (use SAM for refer image segmentation) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624244775,
+            "language": "Python",
+            "last_commit": "2023-04-07T16:42:26Z",
+            "owner": "helblazer811",
+            "repo": "RefSAM",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segment-anything-with-image-captioning(sam + image caption) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625723797,
+            "language": "Python",
+            "last_commit": "2023-04-10T00:56:58Z",
+            "owner": "bnabis93",
+            "repo": "segment-anything-image-search",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segment Anything Model (SAM) in Napari (SAM + Napari) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624387114,
+            "language": "Python",
+            "last_commit": "2024-03-04T15:41:39Z",
+            "owner": "MIC-DKFZ",
+            "repo": "napari-sam",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MOTSAM (MOT+SAM->MOTS)Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625746597,
+            "language": "Python",
+            "last_commit": "2023-05-29T07:30:03Z",
+            "owner": "BingfengYan",
+            "repo": "VISAM",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Annotation-anything-pipeline (GPT+SAM) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625257418,
+            "language": "Python",
+            "last_commit": "2023-09-21T15:02:56Z",
+            "owner": "Yuqifan1117",
+            "repo": "Labal-Anything-Pipeline",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAMCOD (SAM for Camouflaged Object Detection) Paper",
+          "description": "Repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625998928,
+            "language": null,
+            "last_commit": "2023-04-14T02:37:16Z",
+            "owner": "luckybird1994",
+            "repo": "SAMCOD",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAM-medical (SAM for medocal image segmentation)Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628924805,
+            "language": "Python",
+            "last_commit": "2023-09-02T01:59:48Z",
+            "owner": "hitachinsk",
+            "repo": "SAMed",
+            "stars": 611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "relate-anything (relation empowered via SAM) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627239988,
+            "language": "Python",
+            "last_commit": "2023-07-04T17:00:53Z",
+            "owner": "EvolvingLMMs-Lab",
+            "repo": "RelateAnything",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MedSAM (SAM for medicine, training tutorial) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 631367959,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-07T13:36:16Z",
+            "owner": "bowang-lab",
+            "repo": "MedSAM",
+            "stars": 4374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Personalize-SAM (Personalize Segment Anything with 1 Shot in 10 Seconds) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 636385053,
+            "language": "Python",
+            "last_commit": "2024-07-22T15:13:43Z",
+            "owner": "ZrrSkywalker",
+            "repo": "Personalize-SAM",
+            "stars": 1671
+          }
+        }
+      ],
+      "title": "Recent Works"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-18T19:51:23.543Z",
+    "last_updated": "2026-08-19T12:53:56.464Z",
     "original_repository": "JerryX1110/awesome-segment-anything-extensions",
+    "original_repository_id": 625760107,
     "original_repository_sha": "e55306eafa8bc8b92390fc09b89ccd0b49141cf7",
     "enhanced_repository": "enhansome/enhansome-segment-anything-extensions",
     "enhanced_repository_description": null,
