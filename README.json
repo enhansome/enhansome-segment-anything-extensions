@@ -165,7 +165,7 @@
             "last_commit": "2023-07-04T17:00:53Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 471
+            "stars": 470
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2025-05-07T13:36:16Z",
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4374
+            "stars": 4375
           }
         },
         {
@@ -203,7 +203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:52:26.840Z",
+    "last_updated": "2026-08-20T19:57:55.747Z",
     "original_repository": "JerryX1110/awesome-segment-anything-extensions",
     "original_repository_id": 625760107,
     "original_repository_sha": "e55306eafa8bc8b92390fc09b89ccd0b49141cf7",
