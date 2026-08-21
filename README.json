@@ -30,7 +30,7 @@
             "last_commit": "2023-12-16T13:34:26Z",
             "owner": "youquanl",
             "repo": "Segment-Any-Point-Cloud",
-            "stars": 637
+            "stars": 636
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-03-04T15:41:39Z",
             "owner": "MIC-DKFZ",
             "repo": "napari-sam",
-            "stars": 250
+            "stars": 249
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2023-09-02T01:59:48Z",
             "owner": "hitachinsk",
             "repo": "SAMed",
-            "stars": 611
+            "stars": 609
           }
         },
         {
@@ -203,7 +203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:57:55.747Z",
+    "last_updated": "2026-08-21T19:50:32.376Z",
     "original_repository": "JerryX1110/awesome-segment-anything-extensions",
     "original_repository_id": 625760107,
     "original_repository_sha": "e55306eafa8bc8b92390fc09b89ccd0b49141cf7",
