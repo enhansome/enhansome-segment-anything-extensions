@@ -180,7 +180,7 @@
             "last_commit": "2025-05-07T13:36:16Z",
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4375
+            "stars": 4376
           }
         },
         {
@@ -203,7 +203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:50:32.376Z",
+    "last_updated": "2026-08-22T19:48:54.991Z",
     "original_repository": "JerryX1110/awesome-segment-anything-extensions",
     "original_repository_id": 625760107,
     "original_repository_sha": "e55306eafa8bc8b92390fc09b89ccd0b49141cf7",
