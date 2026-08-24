@@ -5,6 +5,36 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Segment Anything Model (SAM) official Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618058471,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-18T17:46:55Z",
+            "owner": "facebookresearch",
+            "repo": "segment-anything",
+            "stars": 54754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grounded-Segment-Anything (Combination of Ground-DINO and Segment-Anything) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624249899,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-05T06:07:32Z",
+            "owner": "IDEA-Research",
+            "repo": "Grounded-Segment-Anything",
+            "stars": 17709
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Segment-Any-Anomaly (SAM + GroudingDINO for anomaly detection)Repo",
           "description": null,
           "children": [],
@@ -31,6 +61,141 @@
             "owner": "youquanl",
             "repo": "Segment-Any-Point-Cloud",
             "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segment and Track Anything (SAM-Track) Repo",
+          "description": "ArXiv",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628630832,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-03T21:59:37Z",
+            "owner": "z-x-yang",
+            "repo": "Segment-and-Track-Anything",
+            "stars": 3134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inpaint/Remove/Fill-Anything (image inpainting meets sam) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625478728,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-22T04:47:40Z",
+            "owner": "geekyutao",
+            "repo": "Inpaint-Anything",
+            "stars": 7699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SEEM: Segment Everything Everywhere All at Once Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626753204,
+            "language": "Python",
+            "last_commit": "2024-08-19T08:01:54Z",
+            "owner": "UX-Decoder",
+            "repo": "Segment-Everything-Everywhere-All-At-Once",
+            "stars": 4795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Editing Anything (SAM + CLIP +StableDiffusion) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624755349,
+            "language": "Python",
+            "last_commit": "2023-04-11T10:24:26Z",
+            "owner": "feizc",
+            "repo": "IEA",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantic Segment Anything (SAM for semantic seg) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625415628,
+            "language": "Python",
+            "last_commit": "2023-06-07T11:54:19Z",
+            "owner": "fudan-zvg",
+            "repo": "Semantic-Segment-Anything",
+            "stars": 2301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segment-anything-with-clip (SAM + CLIP) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624492945,
+            "language": "Python",
+            "last_commit": "2024-02-19T14:20:58Z",
+            "owner": "Curt-Park",
+            "repo": "segment-anything-with-clip",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magic-copy (use SAM for foreground mask segmentation) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624716259,
+            "language": "TypeScript",
+            "last_commit": "2024-05-06T20:41:13Z",
+            "owner": "kevmo314",
+            "repo": "magic-copy",
+            "stars": 2459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EditAnything (SAM for image generation) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625483393,
+            "language": "Python",
+            "last_commit": "2025-02-23T04:58:34Z",
+            "owner": "sail-sg",
+            "repo": "EditAnything",
+            "stars": 3422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prompt-Segment-Anything (use SAM for instance segmentation) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625729642,
+            "language": "Python",
+            "last_commit": "2023-04-14T11:09:44Z",
+            "owner": "RockeyCoss",
+            "repo": "Prompt-Segment-Anything",
+            "stars": 316
           }
         },
         {
@@ -65,6 +230,36 @@
         },
         {
           "node_type": "item",
+          "title": "Fast-SAM (fast segment-anything) repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 656455590,
+            "language": "Python",
+            "last_commit": "2024-07-30T13:35:06Z",
+            "owner": "CASIA-LMC-Lab",
+            "repo": "FastSAM",
+            "stars": 8398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mobile-SAM (faster segment-anything) repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 658399706,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-05T11:00:13Z",
+            "owner": "ChaoningZhang",
+            "repo": "MobileSAM",
+            "stars": 5856
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Segment-anything-with-image-captioning(sam + image caption) Repo",
           "description": null,
           "children": [],
@@ -76,6 +271,21 @@
             "owner": "bnabis93",
             "repo": "segment-anything-image-search",
             "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "semantic drawing with Segment Anything Model (SAM for mask drawing/editing) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625292175,
+            "language": "Python",
+            "last_commit": "2024-08-01T02:01:51Z",
+            "owner": "lujiazho",
+            "repo": "SegDrawer",
+            "stars": 397
           }
         },
         {
@@ -140,6 +350,291 @@
         },
         {
           "node_type": "item",
+          "title": "inpainting-anything (SAM + inpainting) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625478728,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-22T04:47:40Z",
+            "owner": "geekyutao",
+            "repo": "Inpaint-Anything",
+            "stars": 7699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segment-anything-eo (Earth observation tools for Meta AI Segment Anything) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625358519,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-05T18:01:12Z",
+            "owner": "aliaksandr960",
+            "repo": "segment-anything-eo",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Napari plugin of Segment Anything Model (SAM) [Repo] (https://github.com/JoOkuma/napari-segment-anything",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624161149,
+            "language": "Python",
+            "last_commit": "2024-08-29T13:36:31Z",
+            "owner": "royerlab",
+            "repo": "napari-segment-anything",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segment-anything-and-name-it (Visual GPT + SAM) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625463757,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-19T01:31:05Z",
+            "owner": "Saiyan-World",
+            "repo": "grounded-segment-any-parts",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625321570,
+            "language": "Python",
+            "last_commit": "2026-08-09T05:52:06Z",
+            "owner": "vietanhdev",
+            "repo": "anylabeling",
+            "stars": 3458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caption-anything (Segment Anything + Visual Captioning + ChatGPT) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624860070,
+            "language": "Python",
+            "last_commit": "2023-08-29T05:26:45Z",
+            "owner": "ttengwang",
+            "repo": "Caption-Anything",
+            "stars": 1777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segment-anything-u-specify (using sam + clip to segment anything u specify) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625938966,
+            "language": "Python",
+            "last_commit": "2023-07-04T02:42:42Z",
+            "owner": "MaybeShewill-CV",
+            "repo": "segment-anything-u-specify",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OCR-SAM (SAM for Text, Text Removal and Text Inpainting) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625402032,
+            "language": "Python",
+            "last_commit": "2024-01-30T03:59:45Z",
+            "owner": "yeungchenwa",
+            "repo": "OCR-SAM",
+            "stars": 590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grounded-segment-anything-colab Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625846264,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-25T20:28:21Z",
+            "owner": "camenduru",
+            "repo": "grounded-segment-anything-colab",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAM Medical Imaging Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624966700,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-14T16:17:50Z",
+            "owner": "amine0110",
+            "repo": "SAM-Medical-Imaging",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transform Image Into Unique Paragraph (ChatGPT+SAM+BLIP) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627059657,
+            "language": "Python",
+            "last_commit": "2023-04-28T06:41:05Z",
+            "owner": "showlab",
+            "repo": "Image2Paragraph",
+            "stars": 820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIME-SAM (SAM + Explainable Artificial Intelligence) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627047234,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-13T18:58:09Z",
+            "owner": "jaydeep-work",
+            "repo": "LIME-SAM",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sam-with-mmdet (SAM+MMDetection) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625869418,
+            "language": "Python",
+            "last_commit": "2023-04-12T01:22:30Z",
+            "owner": "liuyanyi",
+            "repo": "sam-with-mmdet",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-tracking (sam + tracking) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625876964,
+            "language": "Python",
+            "last_commit": "2024-03-29T10:17:22Z",
+            "owner": "open-mmlab",
+            "repo": "playground",
+            "stars": 1236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D-Box via Segment Anything (sam for 3D Detection) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627807779,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-18T02:39:02Z",
+            "owner": "JIA-Lab-research",
+            "repo": "3D-Box-Segment-Anything",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anything-3D (Segment-Anything + 3D. Let's lift the anything to 3D) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627352072,
+            "language": "Python",
+            "last_commit": "2023-06-12T09:40:03Z",
+            "owner": "Anything-of-anything",
+            "repo": "Anything-3D",
+            "stars": 1633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transfer-Any-Style (SAM for style transfer) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628226391,
+            "language": null,
+            "last_commit": "2023-04-15T09:41:40Z",
+            "owner": "Anything-of-anything",
+            "repo": "Transfer-Any-Style",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paint-anything (sam for drawing) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628385964,
+            "language": "Python",
+            "last_commit": "2023-04-16T10:57:52Z",
+            "owner": "Huage001",
+            "repo": "Paint-Anything",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "track-anything (VOS + sam)Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626676185,
+            "language": "Python",
+            "last_commit": "2025-12-13T11:02:33Z",
+            "owner": "gaomingqi",
+            "repo": "Track-Anything",
+            "stars": 6993
+          }
+        },
+        {
+          "node_type": "item",
           "title": "SAM-medical (SAM for medocal image segmentation)Repo",
           "description": null,
           "children": [],
@@ -165,7 +660,37 @@
             "last_commit": "2023-07-04T17:00:53Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 470
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Count Anything (SAM for counting) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626941135,
+            "language": "Python",
+            "last_commit": "2023-04-22T06:26:56Z",
+            "owner": "ylqi",
+            "repo": "Count-Anything",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShowAnything (SAM + SD for editing) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626329990,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-01T07:08:28Z",
+            "owner": "showlab",
+            "repo": "ShowAnything",
+            "stars": 84
           }
         },
         {
@@ -180,7 +705,7 @@
             "last_commit": "2025-05-07T13:36:16Z",
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4376
+            "stars": 4377
           }
         },
         {
@@ -197,13 +722,199 @@
             "repo": "Personalize-SAM",
             "stars": 1671
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Instruct to Act (SAM+OpenCLIP for robotics application) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642260087,
+            "language": "Python",
+            "last_commit": "2024-06-23T07:39:41Z",
+            "owner": "OpenGVLab",
+            "repo": "Instruct2Act",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "finetune-anything (SAM finetuning) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624334346,
+            "language": "Python",
+            "last_commit": "2023-08-05T13:33:13Z",
+            "owner": "ziqi-jin",
+            "repo": "finetune-anything",
+            "stars": 867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Detect-AnyShadow (SAM for shadow det) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645670498,
+            "language": "Python",
+            "last_commit": "2024-11-28T07:10:21Z",
+            "owner": "harrytea",
+            "repo": "Detect-AnyShadow",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAD: Segment Any RGBD (SAM+Depth / SAM for RGBD) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 630732816,
+            "language": "Python",
+            "last_commit": "2023-05-24T01:48:43Z",
+            "owner": "Jun-CEN",
+            "repo": "SegmentAnyRGBD",
+            "stars": 866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAM-HQ: Segment Anything in High Quality (High Quality Mask with SAM) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 648003298,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-12T00:00:27Z",
+            "owner": "SysCV",
+            "repo": "sam-hq",
+            "stars": 4255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calib-anything (SAM for calibration optimization) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 649563847,
+            "language": "C++",
+            "last_commit": "2023-10-31T10:02:33Z",
+            "owner": "OpenCalib",
+            "repo": "CalibAnything",
+            "stars": 366
+          }
         }
       ],
       "title": "Recent Works"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Towards Segmenting Anything That Moves Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199077972,
+            "language": "Python",
+            "last_commit": "2019-12-22T20:24:03Z",
+            "owner": "achalddave",
+            "repo": "segment-any-moving",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SegGPT: Segmenting Everything In Context Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 574615385,
+            "language": "Python",
+            "last_commit": "2024-12-06T02:39:02Z",
+            "owner": "baaivision",
+            "repo": "Painter",
+            "stars": 2593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Painter Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 574615385,
+            "language": "Python",
+            "last_commit": "2024-12-06T02:39:02Z",
+            "owner": "baaivision",
+            "repo": "Painter",
+            "stars": 2593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 523379232,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-18T01:53:49Z",
+            "owner": "CompVis",
+            "repo": "stable-diffusion",
+            "stars": 73344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ControlNet (Adding Conditional Control to Text-to-Image Diffusion Models.) Repo",
+          "description": "Paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 595893961,
+            "language": "Python",
+            "last_commit": "2024-02-25T09:49:39Z",
+            "owner": "lllyasviel",
+            "repo": "ControlNet",
+            "stars": 34079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "image2text powered by CLIP and BLIP Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 522750006,
+            "language": "Python",
+            "last_commit": "2024-05-15T13:32:52Z",
+            "owner": "pharmapsychotic",
+            "repo": "clip-interrogator",
+            "stars": 2982
+          }
+        }
+      ],
+      "title": "Relevant Repos"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:48:20.948Z",
+    "last_updated": "2026-08-24T14:26:34.672Z",
     "original_repository": "JerryX1110/awesome-segment-anything-extensions",
     "original_repository_id": 625760107,
     "original_repository_sha": "e55306eafa8bc8b92390fc09b89ccd0b49141cf7",
