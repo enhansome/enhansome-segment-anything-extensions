@@ -15,7 +15,7 @@
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54754
+            "stars": 54759
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-09-05T06:07:32Z",
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17707
+            "stars": 17710
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-12-16T13:34:26Z",
             "owner": "youquanl",
             "repo": "Segment-Any-Point-Cloud",
-            "stars": 636
+            "stars": 637
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-22T04:47:40Z",
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7701
+            "stars": 7703
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2024-08-19T08:01:54Z",
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4795
+            "stars": 4794
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2024-07-30T13:35:06Z",
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8400
+            "stars": 8401
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-05-05T11:00:13Z",
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5857
+            "stars": 5858
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-22T04:47:40Z",
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7701
+            "stars": 7703
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-09T05:52:06Z",
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3460
+            "stars": 3463
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2023-07-04T17:00:53Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 471
+            "stars": 472
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2024-06-18T01:53:49Z",
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73345
+            "stars": 73347
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2024-02-25T09:49:39Z",
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34085
+            "stars": 34091
           }
         },
         {
@@ -914,7 +914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:57:19.382Z",
+    "last_updated": "2026-08-26T22:26:26.977Z",
     "original_repository": "JerryX1110/awesome-segment-anything-extensions",
     "original_repository_id": 625760107,
     "original_repository_sha": "e55306eafa8bc8b92390fc09b89ccd0b49141cf7",
