@@ -15,7 +15,7 @@
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54759
+            "stars": 54766
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-22T04:47:40Z",
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7703
+            "stars": 7704
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-05-05T11:00:13Z",
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5858
+            "stars": 5859
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-22T04:47:40Z",
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7703
+            "stars": 7704
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2025-09-12T00:00:27Z",
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4255
+            "stars": 4256
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2024-06-18T01:53:49Z",
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73347
+            "stars": 73348
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2024-02-25T09:49:39Z",
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34091
+            "stars": 34094
           }
         },
         {
@@ -906,7 +906,7 @@
             "last_commit": "2024-05-15T13:32:52Z",
             "owner": "pharmapsychotic",
             "repo": "clip-interrogator",
-            "stars": 2982
+            "stars": 2983
           }
         }
       ],
@@ -914,9 +914,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:26:26.977Z",
-    "original_repository": "JerryX1110/awesome-segment-anything-extensions",
-    "original_repository_id": 625760107,
+    "last_updated": "2026-08-27T12:01:18.224Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 625760107,
+      "language": null,
+      "last_commit": "2023-06-28T14:46:53Z",
+      "owner": "JerryX1110",
+      "repo": "awesome-segment-anything-extensions",
+      "stars": 348
+    },
     "original_repository_sha": "e55306eafa8bc8b92390fc09b89ccd0b49141cf7",
     "enhanced_repository": "enhansome/enhansome-segment-anything-extensions",
     "enhanced_repository_description": null,
