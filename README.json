@@ -15,7 +15,7 @@
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54766
+            "stars": 54769
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-09-05T06:07:32Z",
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17710
+            "stars": 17711
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-22T04:47:40Z",
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7704
+            "stars": 7705
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2024-05-06T20:41:13Z",
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2458
+            "stars": 2457
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-05-05T11:00:13Z",
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5859
+            "stars": 5858
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-22T04:47:40Z",
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7704
+            "stars": 7705
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-09T05:52:06Z",
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3463
+            "stars": 3465
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2025-12-13T11:02:33Z",
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 6994
+            "stars": 6993
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2024-06-18T01:53:49Z",
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73348
+            "stars": 73352
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2024-02-25T09:49:39Z",
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34094
+            "stars": 34097
           }
         },
         {
@@ -914,7 +914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:18.224Z",
+    "last_updated": "2026-08-28T03:39:35.745Z",
     "original_repository_info": {
       "archived": false,
       "id": 625760107,
