@@ -19,7 +19,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54772,
+            "stars": 54774,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -143,7 +143,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7704,
+            "stars": 7705,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -254,7 +254,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2457,
+            "stars": 2456,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -364,10 +364,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2024-07-30T13:35:06Z",
-            "open_issues": 146,
+            "open_issues": 147,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8403,
+            "stars": 8404,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5858,
+            "stars": 5857,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -535,7 +535,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7704,
+            "stars": 7705,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -556,7 +556,7 @@
             "open_issues": 8,
             "owner": "aliaksandr960",
             "repo": "segment-anything-eo",
-            "stars": 446,
+            "stars": 447,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -615,11 +615,11 @@
             "id": 625321570,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-09T05:52:06Z",
-            "open_issues": 91,
+            "last_commit": "2026-08-29T19:23:48Z",
+            "open_issues": 67,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3465,
+            "stars": 3464,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -858,7 +858,7 @@
             "open_issues": 83,
             "owner": "open-mmlab",
             "repo": "playground",
-            "stars": 1236,
+            "stars": 1235,
             "topics": [
               "mmdetection",
               "mmocr",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 6993,
+            "stars": 6994,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1399,7 +1399,7 @@
             "open_issues": 460,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34101,
+            "stars": 34102,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:46:17.807Z",
+    "last_updated": "2026-08-29T21:55:12.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
