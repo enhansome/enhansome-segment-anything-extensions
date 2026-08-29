@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "homepage": null,
             "id": 618058471,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-18T17:46:55Z",
+            "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54772
+            "stars": 54772,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -26,12 +31,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
+            "homepage": "https://arxiv.org/abs/2401.14159",
             "id": 624249899,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-05T06:07:32Z",
+            "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17713
+            "stars": 17713,
+            "topics": [
+              "3d-whole-body-pose-estimation",
+              "automatic-labeling-system",
+              "caption",
+              "data-generation",
+              "image-editing",
+              "open-vocabulary-detection",
+              "open-vocabulary-segmentation",
+              "speech"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -42,12 +61,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of \"Segment Any Anomaly without Training via Hybrid Prompt Regularization (SAA+)\".",
+            "homepage": null,
             "id": 625767114,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-02-22T04:57:10Z",
+            "open_issues": 12,
             "owner": "caoyunkang",
             "repo": "Segment-Any-Anomaly",
-            "stars": 844
+            "stars": 844,
+            "topics": [
+              "anomaly-detection",
+              "foundation",
+              "zero-shot"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -58,12 +86,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'23 Spotlight] Segment Any Point Cloud Sequences by Distilling Vision Foundation Models",
+            "homepage": "https://ldkong.com/Seal",
             "id": 645318405,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-16T13:34:26Z",
+            "open_issues": 8,
             "owner": "youquanl",
             "repo": "Segment-Any-Point-Cloud",
-            "stars": 637
+            "stars": 637,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -74,12 +107,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for key-frame segmentation and Associating Objects with Transformers (AOT) for efficient tracking and propagation purposes.",
+            "homepage": null,
             "id": 628630832,
             "language": "Jupyter Notebook",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-03T21:59:37Z",
+            "open_issues": 45,
             "owner": "z-x-yang",
             "repo": "Segment-and-Track-Anything",
-            "stars": 3135
+            "stars": 3135,
+            "topics": [
+              "interactive-segmentation",
+              "segment-anything",
+              "segment-anything-model",
+              "video-object-segmentation",
+              "visual-object-tracking"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -90,12 +134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inpaint anything using Segment Anything and inpainting models.",
+            "homepage": null,
             "id": 625478728,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T04:47:40Z",
+            "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7704
+            "stars": 7704,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -106,12 +155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] Official implementation of the paper \"Segment Everything Everywhere All at Once\"",
+            "homepage": null,
             "id": 626753204,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-19T08:01:54Z",
+            "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4794
+            "stars": 4794,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -122,12 +176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image Editing Anything",
+            "homepage": null,
             "id": 624755349,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-11T10:24:26Z",
+            "open_issues": 3,
             "owner": "feizc",
             "repo": "IEA",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -138,12 +197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B). ",
+            "homepage": null,
             "id": 625415628,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-07T11:54:19Z",
+            "open_issues": 27,
             "owner": "fudan-zvg",
             "repo": "Semantic-Segment-Anything",
-            "stars": 2301
+            "stars": 2301,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -154,12 +218,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Segment Anything combined with CLIP",
+            "homepage": "https://huggingface.co/spaces/curt-park/segment-anything-with-clip",
             "id": 624492945,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-19T14:20:58Z",
+            "open_issues": 4,
             "owner": "Curt-Park",
             "repo": "segment-anything-with-clip",
-            "stars": 351
+            "stars": 351,
+            "topics": [
+              "colab-notebook",
+              "huggingface-spaces",
+              "machine-learning",
+              "nlp-machine-learning",
+              "segmentation-model"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -170,12 +245,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.",
+            "homepage": null,
             "id": 624716259,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-06T20:41:13Z",
+            "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2457
+            "stars": 2457,
+            "topics": [
+              "chrome-extension",
+              "computer-vision",
+              "image-processing"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -186,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc. (ACM MM)",
+            "homepage": null,
             "id": 625483393,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-23T04:58:34Z",
+            "open_issues": 45,
             "owner": "sail-sg",
             "repo": "EditAnything",
-            "stars": 3422
+            "stars": 3422,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -202,12 +291,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an implementation of zero-shot instance segmentation using Segment Anything.",
+            "homepage": null,
             "id": 625729642,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-14T11:09:44Z",
+            "open_issues": 5,
             "owner": "RockeyCoss",
             "repo": "Prompt-Segment-Anything",
-            "stars": 316
+            "stars": 316,
+            "topics": [
+              "instance-segmentation",
+              "mmdetection",
+              "segment-anything"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -218,12 +316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SAM (Segment Anything Model) for generating rotated bounding boxes with MMRotate, which is a comparison method of H2RBox-v2.",
+            "homepage": null,
             "id": 625075880,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-31T13:46:17Z",
+            "open_issues": 0,
             "owner": "VisionXLab",
             "repo": "sam-mmrotate",
-            "stars": 199
+            "stars": 199,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -234,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Referring Image Segmentation Benchmarking with Segment Anything Model (SAM)",
+            "homepage": null,
             "id": 624244775,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-07T16:42:26Z",
+            "open_issues": 2,
             "owner": "helblazer811",
             "repo": "RefSAM",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -250,12 +358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Segment Anything",
+            "homepage": null,
             "id": 656455590,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-07-30T13:35:06Z",
+            "open_issues": 146,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8403
+            "stars": 8403,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -266,12 +379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!",
+            "homepage": null,
             "id": 658399706,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-05T11:00:13Z",
+            "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5858
+            "stars": 5858,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -282,12 +400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "segment-anything-image-search",
+            "homepage": null,
             "id": 625723797,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-10T00:56:58Z",
+            "open_issues": 0,
             "owner": "bnabis93",
             "repo": "segment-anything-image-search",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -298,12 +421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple static web-based mask drawer, supporting semantic segmentation and video segmentation with interactive Segment Anything Model 2 (SAM2).",
+            "homepage": null,
             "id": 625292175,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-01T02:01:51Z",
+            "open_issues": 14,
             "owner": "lujiazho",
             "repo": "SegDrawer",
-            "stars": 397
+            "stars": 397,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -314,12 +442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Segment anything with our Napari integration of Meta AI's Segment Anything Model (SAM)!",
+            "homepage": null,
             "id": 624387114,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-04T15:41:39Z",
+            "open_issues": 12,
             "owner": "MIC-DKFZ",
             "repo": "napari-sam",
-            "stars": 249
+            "stars": 249,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -330,12 +463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Combining \"segment-anything\" with MOT,  it create the era of \"MOTS\"",
+            "homepage": null,
             "id": 625746597,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-29T07:30:03Z",
+            "open_issues": 4,
             "owner": "BingfengYan",
             "repo": "VISAM",
-            "stars": 158
+            "stars": 158,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -346,12 +484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Baby-DALL3: Annotation anything in visual tasks and Generate anything just all in one-pipeline with GPT-4 (a small baby of DALL·E 3).",
+            "homepage": null,
             "id": 625257418,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-21T15:02:56Z",
+            "open_issues": 1,
             "owner": "Yuqifan1117",
             "repo": "Labal-Anything-Pipeline",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -362,12 +505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 625998928,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-14T02:37:16Z",
+            "open_issues": 2,
             "owner": "luckybird1994",
             "repo": "SAMCOD",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -378,12 +526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inpaint anything using Segment Anything and inpainting models.",
+            "homepage": null,
             "id": 625478728,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T04:47:40Z",
+            "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7704
+            "stars": 7704,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -394,12 +547,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Earth observation tools for Meta AI Segment Anything",
+            "homepage": null,
             "id": 625358519,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-02-05T18:01:12Z",
+            "open_issues": 8,
             "owner": "aliaksandr960",
             "repo": "segment-anything-eo",
-            "stars": 446
+            "stars": 446,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -410,12 +568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Segment Anything Model (SAM) native Qt UI",
+            "homepage": null,
             "id": 624161149,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-29T13:36:31Z",
+            "open_issues": 17,
             "owner": "royerlab",
             "repo": "napari-segment-anything",
-            "stars": 212
+            "stars": 212,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -426,12 +589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grounded Segment Anything: From Objects to Parts",
+            "homepage": null,
             "id": 625463757,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-19T01:31:05Z",
+            "open_issues": 10,
             "owner": "Saiyan-World",
             "repo": "grounded-segment-any-parts",
-            "stars": 417
+            "stars": 417,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -442,12 +610,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2/2.1+SAM3), MobileSAM!!",
+            "homepage": "https://anylabeling.nrl.ai",
             "id": 625321570,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-09T05:52:06Z",
+            "open_issues": 91,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3465
+            "stars": 3465,
+            "topics": [
+              "auto-labeling",
+              "computer-vision",
+              "labeling",
+              "labeling-tool",
+              "mobilesam",
+              "onnx",
+              "sam2",
+              "segment-anything",
+              "segment-anything-2",
+              "yolo",
+              "yolov8"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -458,12 +643,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences. https://huggingface.co/spaces/TencentARC/Caption-Anything https://huggingface.co/spaces/VIPLab/Caption-Anything",
+            "homepage": null,
             "id": 624860070,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-08-29T05:26:45Z",
+            "open_issues": 20,
             "owner": "ttengwang",
             "repo": "Caption-Anything",
-            "stars": 1777
+            "stars": 1777,
+            "topics": [
+              "chatgpt",
+              "controllable-generation",
+              "controllable-image-captioning",
+              "image-captioning",
+              "segment-anything"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -474,12 +670,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "using clip and sam to segment any instance you specify with text prompt of any instance names",
+            "homepage": null,
             "id": 625938966,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-04T02:42:42Z",
+            "open_issues": 1,
             "owner": "MaybeShewill-CV",
             "repo": "segment-anything-u-specify",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "deep-learning",
+              "instance-segmentation",
+              "object-detection",
+              "sam-model",
+              "segment-anything"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -490,12 +697,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Open-Source Project] Combining MMOCR with Segment Anything & Stable Diffusion. Automatically detect, recognize and segment text instances, with serval downstream tasks, e.g., Text Removal and Text Inpainting",
+            "homepage": null,
             "id": 625402032,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-30T03:59:45Z",
+            "open_issues": 11,
             "owner": "yeungchenwa",
             "repo": "OCR-SAM",
-            "stars": 590
+            "stars": 590,
+            "topics": [
+              "mmocr",
+              "segment-anything",
+              "text-detection",
+              "text-inpainting",
+              "text-recognition",
+              "text-removal"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -506,12 +725,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grounding DINO with Segment Anything & Stable Diffusion colab",
+            "homepage": null,
             "id": 625846264,
             "language": "Jupyter Notebook",
+            "license": "Unlicense",
             "last_commit": "2023-12-25T20:28:21Z",
+            "open_issues": 4,
             "owner": "camenduru",
             "repo": "grounded-segment-anything-colab",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "colab",
+              "colab-notebook",
+              "colaboratory",
+              "inpaint",
+              "inpainting",
+              "segment",
+              "segmentation",
+              "stable-diffusion"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -522,12 +755,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 624966700,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-04-14T16:17:50Z",
+            "open_issues": 1,
             "owner": "amine0110",
             "repo": "SAM-Medical-Imaging",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -538,12 +776,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Image 2 Text Para] Transform Image into Unique Paragraph with ChatGPT, BLIP2, OFA, GRIT, Segment Anything, ControlNet.",
+            "homepage": null,
             "id": 627059657,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-28T06:41:05Z",
+            "open_issues": 19,
             "owner": "showlab",
             "repo": "Image2Paragraph",
-            "stars": 820
+            "stars": 820,
+            "topics": [
+              "chatgpt",
+              "gpt4",
+              "segmentt-anything",
+              "toolbox"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -554,12 +802,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LIME-SAM aims to create an Explainable Artificial Intelligence (XAI) framework for image classification using LIME (Local Interpretable Model-agnostic Explanations) as the base algorithm, with the super-pixel method replaced by Segment Anything by Meta (SAM).",
+            "homepage": null,
             "id": 627047234,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-13T18:58:09Z",
+            "open_issues": 0,
             "owner": "jaydeep-work",
             "repo": "LIME-SAM",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "explainable-ai",
+              "image-classification",
+              "lime",
+              "segment-anything-meta"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -570,12 +828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple demo for SAM+MMDetection",
+            "homepage": null,
             "id": 625869418,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-12T01:22:30Z",
+            "open_issues": 3,
             "owner": "liuyanyi",
             "repo": "sam-with-mmdet",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -586,12 +849,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A central hub for gathering and showcasing amazing projects that extend OpenMMLab with SAM and other exciting features.",
+            "homepage": null,
             "id": 625876964,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-29T10:17:22Z",
+            "open_issues": 83,
             "owner": "open-mmlab",
             "repo": "playground",
-            "stars": 1236
+            "stars": 1236,
+            "topics": [
+              "mmdetection",
+              "mmocr",
+              "mmpose",
+              "mmrotate",
+              "openmmlab",
+              "sam"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -602,12 +877,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "We extend Segment Anything to 3D perception by combining it with VoxelNeXt.",
+            "homepage": null,
             "id": 627807779,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-04-18T02:39:02Z",
+            "open_issues": 7,
             "owner": "JIA-Lab-research",
             "repo": "3D-Box-Segment-Anything",
-            "stars": 564
+            "stars": 564,
+            "topics": [
+              "3d",
+              "autonomous-driving",
+              "segment-anything"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -618,12 +902,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Segment-Anything + 3D. Let's lift anything to 3D.",
+            "homepage": null,
             "id": 627352072,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-12T09:40:03Z",
+            "open_issues": 9,
             "owner": "Anything-of-anything",
             "repo": "Anything-3D",
-            "stars": 1633
+            "stars": 1633,
+            "topics": [
+              "3d",
+              "computer-vision",
+              "reconstruction",
+              "segment",
+              "segment-anything"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -634,12 +929,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An iteractive demo based on Segment-Anything for style transfer which enables different content regions apply different styles.",
+            "homepage": null,
             "id": 628226391,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-04-15T09:41:40Z",
+            "open_issues": 0,
             "owner": "Anything-of-anything",
             "repo": "Transfer-Any-Style",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -650,12 +950,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive demo based on Segment-Anything for stroke-based painting which enables human-like painting.",
+            "homepage": null,
             "id": 628385964,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-16T10:57:52Z",
+            "open_issues": 0,
             "owner": "Huage001",
             "repo": "Paint-Anything",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -666,12 +971,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.",
+            "homepage": null,
             "id": 626676185,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-13T11:02:33Z",
+            "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 6993
+            "stars": 6993,
+            "topics": [
+              "inpaint-anything",
+              "interactive-tracking",
+              "segment-anything",
+              "track-anything",
+              "video-object-segmentation",
+              "video-object-tracking"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -682,12 +999,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The implementation of the technical report: \"Customized Segment Anything Model for Medical Image Segmentation\"",
+            "homepage": null,
             "id": 628924805,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-02T01:59:48Z",
+            "open_issues": 49,
             "owner": "hitachinsk",
             "repo": "SAMed",
-            "stars": 610
+            "stars": 610,
+            "topics": [
+              "medical-imaging",
+              "segment-anything",
+              "segment-anything-model",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -698,12 +1025,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Relate Anything Model is capable of taking an image as input and utilizing SAM to identify the corresponding mask within the image.",
+            "homepage": null,
             "id": 627239988,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-04T17:00:53Z",
+            "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 472
+            "stars": 472,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -714,12 +1046,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This method uses Segment Anything and CLIP to ground and count any object that matches a custom text prompt, without requiring any point or box annotation.",
+            "homepage": null,
             "id": 626941135,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-22T06:26:56Z",
+            "open_issues": 5,
             "owner": "ylqi",
             "repo": "Count-Anything",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "clip",
+              "count-anything",
+              "segment-anything"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -730,12 +1071,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 626329990,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-08-01T07:08:28Z",
+            "open_issues": 2,
             "owner": "showlab",
             "repo": "ShowAnything",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "image-editing",
+              "segment-anything",
+              "video-editing",
+              "video-generation",
+              "vision-and-language"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -746,12 +1098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Segment Anything in Medical Images",
+            "homepage": "https://www.nature.com/articles/s41467-024-44824-z",
             "id": 631367959,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-07T13:36:16Z",
+            "open_issues": 17,
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4379
+            "stars": 4379,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -762,12 +1119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personalize Segment Anything Model (SAM) with 1 shot in 10 seconds",
+            "homepage": null,
             "id": 636385053,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-22T15:13:43Z",
+            "open_issues": 40,
             "owner": "ZrrSkywalker",
             "repo": "Personalize-SAM",
-            "stars": 1671
+            "stars": 1671,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -778,12 +1140,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model",
+            "homepage": null,
             "id": 642260087,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-23T07:39:41Z",
+            "open_issues": 0,
             "owner": "OpenGVLab",
             "repo": "Instruct2Act",
-            "stars": 374
+            "stars": 374,
+            "topics": [
+              "chatgpt",
+              "clip",
+              "llm",
+              "robotics",
+              "segment-anything"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -794,12 +1167,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fine-tune SAM (Segment Anything Model) for computer vision tasks such as semantic segmentation, matting, detection ...  in specific scenarios",
+            "homepage": null,
             "id": 624334346,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-05T13:33:13Z",
+            "open_issues": 33,
             "owner": "ziqi-jin",
             "repo": "finetune-anything",
-            "stars": 867
+            "stars": 867,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "fine-tune",
+              "segment-anything"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -810,12 +1193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch implementation for TCSVT 23 \"Detect Any Shadow: Segment Anything for Video Shadow Detection\"",
+            "homepage": null,
             "id": 645670498,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-28T07:10:21Z",
+            "open_issues": 7,
             "owner": "harrytea",
             "repo": "Detect-AnyShadow",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -826,12 +1214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Segment Any RGBD",
+            "homepage": null,
             "id": 630732816,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-24T01:48:43Z",
+            "open_issues": 10,
             "owner": "Jun-CEN",
             "repo": "SegmentAnyRGBD",
-            "stars": 866
+            "stars": 866,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -842,12 +1235,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Segment Anything in High Quality [NeurIPS 2023]",
+            "homepage": "https://arxiv.org/abs/2306.01567",
             "id": 648003298,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-12T00:00:27Z",
+            "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4256
+            "stars": 4256,
+            "topics": [
+              "high-quality",
+              "sam",
+              "segment-anything",
+              "segment-anything-model",
+              "segmentation",
+              "zero-shot-segmentation"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -858,12 +1263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 649563847,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-10-31T10:02:33Z",
+            "open_issues": 18,
             "owner": "OpenCalib",
             "repo": "CalibAnything",
-            "stars": 366
+            "stars": 366,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         }
@@ -880,12 +1290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Towards Segmenting Anything That Moves\"",
+            "homepage": null,
             "id": 199077972,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-12-22T20:24:03Z",
+            "open_issues": 4,
             "owner": "achalddave",
             "repo": "segment-any-moving",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -896,12 +1311,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Painter & SegGPT Series: Vision Foundation Models from BAAI",
+            "homepage": null,
             "id": 574615385,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-06T02:39:02Z",
+            "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2593
+            "stars": 2593,
+            "topics": [
+              "cvpr2023",
+              "generalist-model",
+              "generalist-painter",
+              "in-context-learning",
+              "in-context-visual-learning",
+              "seggpt",
+              "segmentation-foundation-model"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -912,12 +1340,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Painter & SegGPT Series: Vision Foundation Models from BAAI",
+            "homepage": null,
             "id": 574615385,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-06T02:39:02Z",
+            "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2593
+            "stars": 2593,
+            "topics": [
+              "cvpr2023",
+              "generalist-model",
+              "generalist-painter",
+              "in-context-learning",
+              "in-context-visual-learning",
+              "seggpt",
+              "segmentation-foundation-model"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -928,12 +1369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A latent text-to-image diffusion model",
+            "homepage": "https://ommer-lab.com/research/latent-diffusion-models/",
             "id": 523379232,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-18T01:53:49Z",
+            "open_issues": 618,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73356
+            "stars": 73356,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -944,12 +1390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let us control diffusion models!",
+            "homepage": null,
             "id": 595893961,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-25T09:49:39Z",
+            "open_issues": 460,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34100
+            "stars": 34101,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         },
@@ -960,12 +1411,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image to prompt with BLIP and CLIP",
+            "homepage": null,
             "id": 522750006,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-15T13:32:52Z",
+            "open_issues": 61,
             "owner": "pharmapsychotic",
             "repo": "clip-interrogator",
-            "stars": 2983
+            "stars": 2983,
+            "topics": [
+              "clip",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
         }
@@ -974,15 +1433,37 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:24:49.921Z",
+    "last_updated": "2026-08-29T04:46:17.807Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Segment-anything related awesome extensions/projects/repos.",
+      "homepage": null,
       "id": 625760107,
       "language": null,
+      "license": null,
       "last_commit": "2023-06-28T14:46:53Z",
+      "open_issues": 1,
       "owner": "JerryX1110",
       "repo": "awesome-segment-anything-extensions",
-      "stars": 348
+      "stars": 348,
+      "topics": [
+        "application",
+        "awesome",
+        "awesome-list",
+        "caption-anything",
+        "computer-vision",
+        "foundation-models",
+        "generation",
+        "generative-model",
+        "image-segmentation",
+        "machine-learning",
+        "object-detection",
+        "segment-anything",
+        "segment-anything-meta",
+        "segmentation",
+        "style-transfer",
+        "tracking"
+      ]
     },
     "original_repository_sha": "e55306eafa8bc8b92390fc09b89ccd0b49141cf7",
     "enhanced_repository": "enhansome/enhansome-segment-anything-extensions",
