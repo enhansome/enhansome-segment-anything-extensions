@@ -13,7 +13,7 @@ Welcome to starts ⭐ & comments 💹 & sharing 😀 !!
 
 ## Recent Works
 
-* Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything) ⭐ 54,782 | 🐛 594 | 🌐 Jupyter Notebook | 📅 2024-09-18
+* Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything) ⭐ 54,789 | 🐛 594 | 🌐 Jupyter Notebook | 📅 2024-09-18
 
 The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
@@ -37,11 +37,11 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230824120-4efa057e-6a0f-41d5-b995-768496d1edcc.png)
 
-* Segment and Track Anything (SAM-Track) [Repo](https://github.com/z-x-yang/Segment-and-Track-Anything) ⭐ 3,134 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2026-07-03 [ArXiv](https://arxiv.org/abs/2305.06558)
+* Segment and Track Anything (SAM-Track) [Repo](https://github.com/z-x-yang/Segment-and-Track-Anything) ⭐ 3,135 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2026-07-03 [ArXiv](https://arxiv.org/abs/2305.06558)
 
 ![image](https://user-images.githubusercontent.com/65257938/232959211-6ee84ad5-a02d-44ca-91d2-17d12b978fb2.png)
 
-* Inpaint/Remove/Fill-Anything (image inpainting meets sam) [Repo](https://github.com/geekyutao/Inpaint-Anything) ⭐ 7,703 | 🐛 114 | 🌐 Jupyter Notebook | 📅 2026-08-22
+* Inpaint/Remove/Fill-Anything (image inpainting meets sam) [Repo](https://github.com/geekyutao/Inpaint-Anything) ⭐ 7,704 | 🐛 114 | 🌐 Jupyter Notebook | 📅 2026-08-22
 
 ![image](https://user-images.githubusercontent.com/65257938/233364976-ce36b0bf-3886-47db-a4ec-f97520da6523.png)
 
@@ -87,7 +87,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/3e8deb90-5f58-425d-951d-96c7c3a16461)
 
-* Mobile-SAM (faster segment-anything) [repo](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,861 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05
+* Mobile-SAM (faster segment-anything) [repo](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,863 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/4731bec8-fd46-4ccf-9286-645efc4f0546)
 
@@ -116,7 +116,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231332215-abacbf73-f2af-4ec9-a36f-0d6d973406ee.png)
 
-* inpainting-anything (SAM + inpainting) [Repo](https://github.com/geekyutao/Inpaint-Anything) ⭐ 7,703 | 🐛 114 | 🌐 Jupyter Notebook | 📅 2026-08-22
+* inpainting-anything (SAM + inpainting) [Repo](https://github.com/geekyutao/Inpaint-Anything) ⭐ 7,704 | 🐛 114 | 🌐 Jupyter Notebook | 📅 2026-08-22
 
 ![image](https://user-images.githubusercontent.com/65257938/231332320-d8d43a47-e416-404a-bab9-a4bfc7bf82f3.png)
 
@@ -136,7 +136,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231365544-b88a8628-c396-4263-8d7a-baa1d35717d7.png)
 
-* AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling [Repo](https://github.com/vietanhdev/anylabeling) ⭐ 3,464 | 🐛 50 | 🌐 Python | 📅 2026-08-30
+* AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling [Repo](https://github.com/vietanhdev/anylabeling) ⭐ 3,465 | 🐛 50 | 🌐 Python | 📅 2026-08-30
 
 ![image](https://user-images.githubusercontent.com/65257938/231440358-7a02df55-b578-4f82-b97e-42f9f8d93373.png)
 
@@ -222,7 +222,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/234734142-06a58f22-3823-4027-a34a-2b25c7e7a9d9.png)
 
-* MedSAM (SAM for medicine, training tutorial) [Repo](https://github.com/bowang-lab/MedSAM#model-training-video-tutorial) ⭐ 4,380 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2025-05-07
+* MedSAM (SAM for medicine, training tutorial) [Repo](https://github.com/bowang-lab/MedSAM#model-training-video-tutorial) ⭐ 4,384 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2025-05-07
 
 * Personalize-SAM (Personalize Segment Anything with 1 Shot in 10 Seconds) [Repo](https://github.com/ZrrSkywalker/Personalize-SAM) ⭐ 1,672 | 🐛 40 | 🌐 Python | 📅 2024-07-22
   ![image](https://user-images.githubusercontent.com/65257938/236376431-cf9d1c17-c37b-4742-9660-3abcb9f606ef.png)
@@ -254,7 +254,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/9654dc99-faaa-47c9-b0ab-6ff113ce4968)
 
-* SAM-HQ: Segment Anything in High Quality (High Quality Mask with SAM) [Repo](https://github.com/SysCV/SAM-HQ) ⭐ 4,256 | 🐛 110 | 🌐 Jupyter Notebook | 📅 2025-09-12
+* SAM-HQ: Segment Anything in High Quality (High Quality Mask with SAM) [Repo](https://github.com/SysCV/SAM-HQ) ⭐ 4,257 | 🐛 110 | 🌐 Jupyter Notebook | 📅 2025-09-12
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/26e015f7-b3b7-4bb4-9915-be8be86361fb)
 
@@ -276,7 +276,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231469147-eb3709a2-08ea-4320-a461-7589a4950683.png)
 
-* Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) [Repo](https://github.com/CompVis/stable-diffusion) ⭐ 73,363 | 🐛 618 | 🌐 Jupyter Notebook | 📅 2024-06-18
+* Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) [Repo](https://github.com/CompVis/stable-diffusion) ⭐ 73,366 | 🐛 618 | 🌐 Jupyter Notebook | 📅 2024-06-18
 
 ![image](https://user-images.githubusercontent.com/65257938/231468134-747e79ae-9325-4d63-b5a3-ad6676d92757.png)
 
@@ -288,4 +288,4 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
