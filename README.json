@@ -19,7 +19,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54853,
+            "stars": 54862,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17723,
+            "stars": 17724,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -116,7 +116,7 @@
             "open_issues": 42,
             "owner": "z-x-yang",
             "repo": "Segment-and-Track-Anything",
-            "stars": 3135,
+            "stars": 3137,
             "topics": [
               "interactive-segmentation",
               "segment-anything",
@@ -206,7 +206,7 @@
             "open_issues": 27,
             "owner": "fudan-zvg",
             "repo": "Semantic-Segment-Anything",
-            "stars": 2300,
+            "stars": 2301,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -367,7 +367,7 @@
             "open_issues": 147,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8409,
+            "stars": 8410,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -619,7 +619,7 @@
             "open_issues": 50,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3469,
+            "stars": 3472,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 6999,
+            "stars": 7000,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1107,7 +1107,7 @@
             "open_issues": 17,
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4393,
+            "stars": 4396,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1378,7 +1378,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73421,
+            "stars": 73424,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1396,10 +1396,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-02-25T09:49:39Z",
-            "open_issues": 460,
+            "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34112,
+            "stars": 34115,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:36:57.997Z",
+    "last_updated": "2026-09-14T22:42:38.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
