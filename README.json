@@ -19,7 +19,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54862,
+            "stars": 54863,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17724,
+            "stars": 17728,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5868,
+            "stars": 5869,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -619,7 +619,7 @@
             "open_issues": 50,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3472,
+            "stars": 3474,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -1034,7 +1034,7 @@
             "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1107,7 +1107,7 @@
             "open_issues": 17,
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4396,
+            "stars": 4398,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1378,7 +1378,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73424,
+            "stars": 73434,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34115,
+            "stars": 34116,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T22:42:38.390Z",
+    "last_updated": "2026-09-15T22:24:51.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
