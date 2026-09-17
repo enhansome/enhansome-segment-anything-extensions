@@ -19,7 +19,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54871,
+            "stars": 54875,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17728,
+            "stars": 17729,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -143,7 +143,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7713,
+            "stars": 7714,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -367,7 +367,7 @@
             "open_issues": 147,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8410,
+            "stars": 8411,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5871,
+            "stars": 5873,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -535,7 +535,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7713,
+            "stars": 7714,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -619,7 +619,7 @@
             "open_issues": 50,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3478,
+            "stars": 3479,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7000,
+            "stars": 6999,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1034,7 +1034,7 @@
             "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 477,
+            "stars": 478,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1107,7 +1107,7 @@
             "open_issues": 17,
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4399,
+            "stars": 4400,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4257,
+            "stars": 4258,
             "topics": [
               "high-quality",
               "sam",
@@ -1378,7 +1378,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73435,
+            "stars": 73442,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34115,
+            "stars": 34117,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T22:16:53.145Z",
+    "last_updated": "2026-09-17T22:23:54.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
