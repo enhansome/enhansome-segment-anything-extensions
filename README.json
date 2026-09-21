@@ -19,7 +19,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54893,
+            "stars": 54903,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17731,
+            "stars": 17732,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -143,7 +143,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7715,
+            "stars": 7718,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -206,7 +206,7 @@
             "open_issues": 27,
             "owner": "fudan-zvg",
             "repo": "Semantic-Segment-Anything",
-            "stars": 2302,
+            "stars": 2303,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -535,7 +535,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7715,
+            "stars": 7718,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -619,7 +619,7 @@
             "open_issues": 50,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3482,
+            "stars": 3483,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 6998,
+            "stars": 6997,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1034,7 +1034,7 @@
             "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 481,
+            "stars": 491,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1107,7 +1107,7 @@
             "open_issues": 17,
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4401,
+            "stars": 4400,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4258,
+            "stars": 4260,
             "topics": [
               "high-quality",
               "sam",
@@ -1320,7 +1320,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2595,
+            "stars": 2596,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -1349,7 +1349,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2595,
+            "stars": 2596,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -1378,7 +1378,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73451,
+            "stars": 73455,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34115,
+            "stars": 34118,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T21:45:34.645Z",
+    "last_updated": "2026-09-21T22:46:40.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
