@@ -19,7 +19,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54903,
+            "stars": 54913,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17732,
+            "stars": 17733,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -143,7 +143,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7718,
+            "stars": 7719,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -164,7 +164,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4790,
+            "stars": 4791,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -227,7 +227,7 @@
             "open_issues": 4,
             "owner": "Curt-Park",
             "repo": "segment-anything-with-clip",
-            "stars": 351,
+            "stars": 352,
             "topics": [
               "colab-notebook",
               "huggingface-spaces",
@@ -367,7 +367,7 @@
             "open_issues": 147,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8413,
+            "stars": 8414,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5875,
+            "stars": 5876,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -535,7 +535,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7718,
+            "stars": 7719,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -652,7 +652,7 @@
             "open_issues": 20,
             "owner": "ttengwang",
             "repo": "Caption-Anything",
-            "stars": 1776,
+            "stars": 1777,
             "topics": [
               "chatgpt",
               "controllable-generation",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 6997,
+            "stars": 6998,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1034,7 +1034,7 @@
             "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 491,
+            "stars": 493,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1272,7 +1272,7 @@
             "open_issues": 18,
             "owner": "OpenCalib",
             "repo": "CalibAnything",
-            "stars": 368,
+            "stars": 369,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1378,7 +1378,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73455,
+            "stars": 73464,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34118,
+            "stars": 34121,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1420,7 +1420,7 @@
             "open_issues": 61,
             "owner": "pharmapsychotic",
             "repo": "clip-interrogator",
-            "stars": 2985,
+            "stars": 2986,
             "topics": [
               "clip",
               "pytorch"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:46:40.275Z",
+    "last_updated": "2026-09-22T22:23:07.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
