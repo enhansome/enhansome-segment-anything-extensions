@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17736,
+            "stars": 17738,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -116,7 +116,7 @@
             "open_issues": 42,
             "owner": "z-x-yang",
             "repo": "Segment-and-Track-Anything",
-            "stars": 3138,
+            "stars": 3139,
             "topics": [
               "interactive-segmentation",
               "segment-anything",
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5879,
+            "stars": 5880,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -451,7 +451,7 @@
             "open_issues": 12,
             "owner": "MIC-DKFZ",
             "repo": "napari-sam",
-            "stars": 249,
+            "stars": 250,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 6997,
+            "stars": 7000,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1034,7 +1034,7 @@
             "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 501,
+            "stars": 504,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1107,7 +1107,7 @@
             "open_issues": 17,
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4404,
+            "stars": 4405,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1320,7 +1320,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2596,
+            "stars": 2597,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -1349,7 +1349,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2596,
+            "stars": 2597,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -1378,7 +1378,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73475,
+            "stars": 73479,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34122,
+            "stars": 34124,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1417,7 +1417,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-05-15T13:32:52Z",
-            "open_issues": 61,
+            "open_issues": 60,
             "owner": "pharmapsychotic",
             "repo": "clip-interrogator",
             "stars": 2986,
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T22:41:22.155Z",
+    "last_updated": "2026-09-25T22:43:31.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
