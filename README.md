@@ -13,13 +13,13 @@ Welcome to starts ⭐ & comments 💹 & sharing 😀 !!
 
 ## Recent Works
 
-* Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything) ⭐ 54,943 | 🐛 595 | 🌐 Jupyter Notebook | 📅 2024-09-18
+* Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything) ⭐ 54,944 | 🐛 595 | 🌐 Jupyter Notebook | 📅 2024-09-18
 
 The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
 ![image](https://user-images.githubusercontent.com/65257938/230819542-5e82c99a-1c5b-43a2-9118-e79cfd2b377f.png)
 
-* Grounded-Segment-Anything (Combination of Ground-DINO and Segment-Anything) [Repo](https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything) ⭐ 17,738 | 🐛 310 | 🌐 Jupyter Notebook | 📅 2024-09-05
+* Grounded-Segment-Anything (Combination of Ground-DINO and Segment-Anything) [Repo](https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything) ⭐ 17,736 | 🐛 310 | 🌐 Jupyter Notebook | 📅 2024-09-05
 
 ![image](https://user-images.githubusercontent.com/65257938/230819682-b2987eb9-24dd-467b-b7e2-203236f4c969.png)
 
@@ -37,7 +37,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230824120-4efa057e-6a0f-41d5-b995-768496d1edcc.png)
 
-* Segment and Track Anything (SAM-Track) [Repo](https://github.com/z-x-yang/Segment-and-Track-Anything) ⭐ 3,140 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2026-07-03 [ArXiv](https://arxiv.org/abs/2305.06558)
+* Segment and Track Anything (SAM-Track) [Repo](https://github.com/z-x-yang/Segment-and-Track-Anything) ⭐ 3,141 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2026-07-03 [ArXiv](https://arxiv.org/abs/2305.06558)
 
 ![image](https://user-images.githubusercontent.com/65257938/232959211-6ee84ad5-a02d-44ca-91d2-17d12b978fb2.png)
 
@@ -57,7 +57,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231331898-cfac7986-1638-4059-8bb5-56227256b0a6.png)
 
-* Semantic Segment Anything (SAM for semantic seg) [Repo](https://github.com/fudan-zvg/Semantic-Segment-Anything) ⭐ 2,303 | 🐛 27 | 🌐 Python | 📅 2023-06-07
+* Semantic Segment Anything (SAM for semantic seg) [Repo](https://github.com/fudan-zvg/Semantic-Segment-Anything) ⭐ 2,304 | 🐛 27 | 🌐 Python | 📅 2023-06-07
 
 ![image](https://user-images.githubusercontent.com/65257938/231338058-34f36f1d-4aad-404d-8c0c-13a5de3b14c0.png)
 
@@ -65,7 +65,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230819815-f20f80db-f234-45e3-a9ce-7638c564ce22.png)
 
-* magic-copy (use SAM for foreground mask segmentation) [Repo](https://github.com/kevmo314/magic-copy) ⭐ 2,454 | 🐛 24 | 🌐 TypeScript | 📅 2024-05-06
+* magic-copy (use SAM for foreground mask segmentation) [Repo](https://github.com/kevmo314/magic-copy) ⭐ 2,455 | 🐛 24 | 🌐 TypeScript | 📅 2024-05-06
 
 ![image](https://user-images.githubusercontent.com/65257938/230820035-216af991-6cf5-4207-9a25-40e7564a3cd1.png)
 
@@ -87,7 +87,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/3e8deb90-5f58-425d-951d-96c7c3a16461)
 
-* Mobile-SAM (faster segment-anything) [repo](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,880 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05
+* Mobile-SAM (faster segment-anything) [repo](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,881 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/4731bec8-fd46-4ccf-9286-645efc4f0546)
 
@@ -136,7 +136,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231365544-b88a8628-c396-4263-8d7a-baa1d35717d7.png)
 
-* AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling [Repo](https://github.com/vietanhdev/anylabeling) ⭐ 3,488 | 🐛 50 | 🌐 Python | 📅 2026-08-30
+* AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling [Repo](https://github.com/vietanhdev/anylabeling) ⭐ 3,489 | 🐛 50 | 🌐 Python | 📅 2026-08-30
 
 ![image](https://user-images.githubusercontent.com/65257938/231440358-7a02df55-b578-4f82-b97e-42f9f8d93373.png)
 
@@ -186,7 +186,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231975263-4d4e33f8-1429-437a-9325-70cf4acc8731.png)
 
-* 3D-Box via Segment Anything (sam for 3D Detection) [Repo](https://github.com/dvlab-research/3D-Box-Segment-Anything) ⭐ 564 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2023-04-18
+* 3D-Box via Segment Anything (sam for 3D Detection) [Repo](https://github.com/dvlab-research/3D-Box-Segment-Anything) ⭐ 565 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2023-04-18
 
 ![image](https://user-images.githubusercontent.com/65257938/232042932-f9f9ff65-e2d1-4bbf-92ec-1e40ceb813bf.png)
 
@@ -200,7 +200,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/232356280-d16793b5-f6d7-4ec1-b77a-ef3e0791454c.png)
 
-* Paint-anything (sam for drawing) [Repo](https://github.com/Huage001/Paint-Anything) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2023-04-16
+* Paint-anything (sam for drawing) [Repo](https://github.com/Huage001/Paint-Anything) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2023-04-16
 
 ![image](https://user-images.githubusercontent.com/65257938/232356394-7727d33a-8d1f-4b92-9c5e-4ef6c6663d26.png)
 
@@ -246,7 +246,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/5e7ecb0f-aee9-4982-9994-b0ad6637c4c3)
 
-* Detect-AnyShadow (SAM for shadow det) [Repo](https://github.com/harrytea/Detect-AnyShadow) ⭐ 69 | 🐛 7 | 🌐 Python | 📅 2024-11-28
+* Detect-AnyShadow (SAM for shadow det) [Repo](https://github.com/harrytea/Detect-AnyShadow) ⭐ 70 | 🐛 7 | 🌐 Python | 📅 2024-11-28
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/7b004296-1e5e-4757-b5d4-a1b018a1ce78)
 
@@ -276,7 +276,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231469147-eb3709a2-08ea-4320-a461-7589a4950683.png)
 
-* Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) [Repo](https://github.com/CompVis/stable-diffusion) ⭐ 73,480 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18
+* Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) [Repo](https://github.com/CompVis/stable-diffusion) ⭐ 73,482 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18
 
 ![image](https://user-images.githubusercontent.com/65257938/231468134-747e79ae-9325-4d63-b5a3-ad6676d92757.png)
 
@@ -288,4 +288,4 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
