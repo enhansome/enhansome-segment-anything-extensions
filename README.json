@@ -19,7 +19,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54955,
+            "stars": 54963,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17740,
+            "stars": 17741,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -164,7 +164,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4791,
+            "stars": 4792,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -367,7 +367,7 @@
             "open_issues": 148,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8416,
+            "stars": 8417,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -598,7 +598,7 @@
             "open_issues": 10,
             "owner": "Saiyan-World",
             "repo": "grounded-segment-any-parts",
-            "stars": 418,
+            "stars": 419,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -652,7 +652,7 @@
             "open_issues": 20,
             "owner": "ttengwang",
             "repo": "Caption-Anything",
-            "stars": 1777,
+            "stars": 1778,
             "topics": [
               "chatgpt",
               "controllable-generation",
@@ -855,10 +855,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-03-29T10:17:22Z",
-            "open_issues": 83,
+            "open_issues": 82,
             "owner": "open-mmlab",
             "repo": "playground",
-            "stars": 1235,
+            "stars": 1234,
             "topics": [
               "mmdetection",
               "mmocr",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7004,
+            "stars": 7005,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1034,7 +1034,7 @@
             "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 516,
+            "stars": 517,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1176,7 +1176,7 @@
             "open_issues": 33,
             "owner": "ziqi-jin",
             "repo": "finetune-anything",
-            "stars": 867,
+            "stars": 868,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1244,7 +1244,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4263,
+            "stars": 4264,
             "topics": [
               "high-quality",
               "sam",
@@ -1378,7 +1378,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73490,
+            "stars": 73489,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34124,
+            "stars": 34125,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:10:05.444Z",
+    "last_updated": "2026-10-01T23:23:18.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
