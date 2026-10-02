@@ -19,7 +19,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54963,
+            "stars": 54961,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17741,
+            "stars": 17742,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -364,7 +364,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2024-07-30T13:35:06Z",
-            "open_issues": 148,
+            "open_issues": 147,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
             "stars": 8417,
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5883,
+            "stars": 5881,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -858,7 +858,7 @@
             "open_issues": 82,
             "owner": "open-mmlab",
             "repo": "playground",
-            "stars": 1234,
+            "stars": 1233,
             "topics": [
               "mmdetection",
               "mmocr",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7005,
+            "stars": 7007,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1034,7 +1034,7 @@
             "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 517,
+            "stars": 518,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4264,
+            "stars": 4263,
             "topics": [
               "high-quality",
               "sam",
@@ -1320,7 +1320,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2598,
+            "stars": 2599,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -1349,7 +1349,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2598,
+            "stars": 2599,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -1378,7 +1378,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73489,
+            "stars": 73493,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34125,
+            "stars": 34121,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T23:23:18.188Z",
+    "last_updated": "2026-10-02T23:11:27.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
@@ -1445,7 +1445,7 @@
       "open_issues": 1,
       "owner": "JerryX1110",
       "repo": "awesome-segment-anything-extensions",
-      "stars": 349,
+      "stars": 348,
       "topics": [
         "application",
         "awesome",
