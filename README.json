@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Segment Anything Model (SAM) official Repo",
-          "description": null,
+          "description": "facebookresearch/segment-anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Grounded-Segment-Anything (Combination of Ground-DINO and Segment-Anything) Repo",
-          "description": null,
+          "description": "IDEA-Research/Grounded-Segment-Anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17742,
+            "stars": 17743,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -57,7 +57,7 @@
         {
           "node_type": "item",
           "title": "Segment-Any-Anomaly (SAM + GroudingDINO for anomaly detection)Repo",
-          "description": null,
+          "description": "caoyunkang/Segment-Any-Anomaly",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -103,7 +103,7 @@
         {
           "node_type": "item",
           "title": "Segment and Track Anything (SAM-Track) Repo",
-          "description": "ArXiv",
+          "description": "z-x-yang/Segment-and-Track-Anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -130,7 +130,7 @@
         {
           "node_type": "item",
           "title": "Inpaint/Remove/Fill-Anything (image inpainting meets sam) Repo",
-          "description": null,
+          "description": "geekyutao/Inpaint-Anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -151,7 +151,7 @@
         {
           "node_type": "item",
           "title": "SEEM: Segment Everything Everywhere All at Once Repo",
-          "description": null,
+          "description": "UX-Decoder/Segment-Everything-Everywhere-All-At-Once",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -172,7 +172,7 @@
         {
           "node_type": "item",
           "title": "Image Editing Anything (SAM + CLIP +StableDiffusion) Repo",
-          "description": null,
+          "description": "feizc/IEA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -193,7 +193,7 @@
         {
           "node_type": "item",
           "title": "Semantic Segment Anything (SAM for semantic seg) Repo",
-          "description": null,
+          "description": "fudan-zvg/Semantic-Segment-Anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -214,7 +214,7 @@
         {
           "node_type": "item",
           "title": "segment-anything-with-clip (SAM + CLIP) Repo",
-          "description": null,
+          "description": "Curt-Park/segment-anything-with-clip",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -241,7 +241,7 @@
         {
           "node_type": "item",
           "title": "magic-copy (use SAM for foreground mask segmentation) Repo",
-          "description": null,
+          "description": "kevmo314/magic-copy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +266,7 @@
         {
           "node_type": "item",
           "title": "EditAnything (SAM for image generation) Repo",
-          "description": null,
+          "description": "sail-sg/EditAnything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -287,7 +287,7 @@
         {
           "node_type": "item",
           "title": "Prompt-Segment-Anything (use SAM for instance segmentation) Repo",
-          "description": null,
+          "description": "RockeyCoss/Prompt-Segment-Anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -312,7 +312,7 @@
         {
           "node_type": "item",
           "title": "sam-mmrotate(use SAM for generating rotated bounding boxes with MMRotate) Repo",
-          "description": null,
+          "description": "VisionXLab/sam-mmrotate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -333,7 +333,7 @@
         {
           "node_type": "item",
           "title": "RefSAM (use SAM for refer image segmentation) Repo",
-          "description": null,
+          "description": "helblazer811/RefSAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -354,7 +354,7 @@
         {
           "node_type": "item",
           "title": "Fast-SAM (fast segment-anything) repo",
-          "description": null,
+          "description": "CASIA-LMC-Lab/FastSAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -375,7 +375,7 @@
         {
           "node_type": "item",
           "title": "Mobile-SAM (faster segment-anything) repo",
-          "description": null,
+          "description": "ChaoningZhang/MobileSAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -396,7 +396,7 @@
         {
           "node_type": "item",
           "title": "Segment-anything-with-image-captioning(sam + image caption) Repo",
-          "description": null,
+          "description": "bnabis93/segment-anything-image-search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -417,7 +417,7 @@
         {
           "node_type": "item",
           "title": "semantic drawing with Segment Anything Model (SAM for mask drawing/editing) Repo",
-          "description": null,
+          "description": "lujiazho/SegDrawer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -438,7 +438,7 @@
         {
           "node_type": "item",
           "title": "Segment Anything Model (SAM) in Napari (SAM + Napari) Repo",
-          "description": null,
+          "description": "MIC-DKFZ/napari-sam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -459,7 +459,7 @@
         {
           "node_type": "item",
           "title": "MOTSAM (MOT+SAM->MOTS)Repo",
-          "description": null,
+          "description": "BingfengYan/VISAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -480,7 +480,7 @@
         {
           "node_type": "item",
           "title": "Annotation-anything-pipeline (GPT+SAM) Repo",
-          "description": null,
+          "description": "Yuqifan1117/Labal-Anything-Pipeline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -501,7 +501,7 @@
         {
           "node_type": "item",
           "title": "SAMCOD (SAM for Camouflaged Object Detection) Paper",
-          "description": "Repo",
+          "description": "luckybird1994/SAMCOD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -522,7 +522,7 @@
         {
           "node_type": "item",
           "title": "inpainting-anything (SAM + inpainting) Repo",
-          "description": null,
+          "description": "geekyutao/Inpaint-Anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -543,7 +543,7 @@
         {
           "node_type": "item",
           "title": "segment-anything-eo (Earth observation tools for Meta AI Segment Anything) Repo",
-          "description": null,
+          "description": "aliaksandr960/segment-anything-eo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -564,7 +564,7 @@
         {
           "node_type": "item",
           "title": "Napari plugin of Segment Anything Model (SAM) [Repo] (https://github.com/JoOkuma/napari-segment-anything",
-          "description": ")",
+          "description": "royerlab/napari-segment-anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -585,7 +585,7 @@
         {
           "node_type": "item",
           "title": "segment-anything-and-name-it (Visual GPT + SAM) Repo",
-          "description": null,
+          "description": "Saiyan-World/grounded-segment-any-parts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -606,7 +606,7 @@
         {
           "node_type": "item",
           "title": "AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling Repo",
-          "description": null,
+          "description": "vietanhdev/anylabeling",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -639,7 +639,7 @@
         {
           "node_type": "item",
           "title": "Caption-anything (Segment Anything + Visual Captioning + ChatGPT) Repo",
-          "description": null,
+          "description": "ttengwang/Caption-Anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -666,7 +666,7 @@
         {
           "node_type": "item",
           "title": "Segment-anything-u-specify (using sam + clip to segment anything u specify) Repo",
-          "description": null,
+          "description": "MaybeShewill-CV/segment-anything-u-specify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -693,7 +693,7 @@
         {
           "node_type": "item",
           "title": "OCR-SAM (SAM for Text, Text Removal and Text Inpainting) Repo",
-          "description": null,
+          "description": "yeungchenwa/OCR-SAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -721,7 +721,7 @@
         {
           "node_type": "item",
           "title": "grounded-segment-anything-colab Repo",
-          "description": null,
+          "description": "camenduru/grounded-segment-anything-colab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -751,7 +751,7 @@
         {
           "node_type": "item",
           "title": "SAM Medical Imaging Repo",
-          "description": null,
+          "description": "amine0110/SAM-Medical-Imaging",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -772,7 +772,7 @@
         {
           "node_type": "item",
           "title": "Transform Image Into Unique Paragraph (ChatGPT+SAM+BLIP) Repo",
-          "description": null,
+          "description": "showlab/Image2Paragraph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -798,7 +798,7 @@
         {
           "node_type": "item",
           "title": "LIME-SAM (SAM + Explainable Artificial Intelligence) Repo",
-          "description": null,
+          "description": "jaydeep-work/LIME-SAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -824,7 +824,7 @@
         {
           "node_type": "item",
           "title": "sam-with-mmdet (SAM+MMDetection) Repo",
-          "description": null,
+          "description": "liuyanyi/sam-with-mmdet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -845,7 +845,7 @@
         {
           "node_type": "item",
           "title": "open-tracking (sam + tracking) Repo",
-          "description": null,
+          "description": "open-mmlab/playground",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -873,7 +873,7 @@
         {
           "node_type": "item",
           "title": "3D-Box via Segment Anything (sam for 3D Detection) Repo",
-          "description": null,
+          "description": "JIA-Lab-research/3D-Box-Segment-Anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -898,7 +898,7 @@
         {
           "node_type": "item",
           "title": "Anything-3D (Segment-Anything + 3D. Let's lift the anything to 3D) Repo",
-          "description": null,
+          "description": "Anything-of-anything/Anything-3D",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -925,7 +925,7 @@
         {
           "node_type": "item",
           "title": "Transfer-Any-Style (SAM for style transfer) Repo",
-          "description": null,
+          "description": "Anything-of-anything/Transfer-Any-Style",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -946,7 +946,7 @@
         {
           "node_type": "item",
           "title": "Paint-anything (sam for drawing) Repo",
-          "description": null,
+          "description": "Huage001/Paint-Anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -967,7 +967,7 @@
         {
           "node_type": "item",
           "title": "track-anything (VOS + sam)Repo",
-          "description": null,
+          "description": "gaomingqi/Track-Anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -995,7 +995,7 @@
         {
           "node_type": "item",
           "title": "SAM-medical (SAM for medocal image segmentation)Repo",
-          "description": null,
+          "description": "hitachinsk/SAMed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1021,7 +1021,7 @@
         {
           "node_type": "item",
           "title": "relate-anything (relation empowered via SAM) Repo",
-          "description": null,
+          "description": "EvolvingLMMs-Lab/RelateAnything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1042,7 +1042,7 @@
         {
           "node_type": "item",
           "title": "Count Anything (SAM for counting) Repo",
-          "description": null,
+          "description": "ylqi/Count-Anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1067,7 +1067,7 @@
         {
           "node_type": "item",
           "title": "ShowAnything (SAM + SD for editing) Repo",
-          "description": null,
+          "description": "showlab/ShowAnything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1094,7 +1094,7 @@
         {
           "node_type": "item",
           "title": "MedSAM (SAM for medicine, training tutorial) Repo",
-          "description": null,
+          "description": "bowang-lab/MedSAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1115,7 +1115,7 @@
         {
           "node_type": "item",
           "title": "Personalize-SAM (Personalize Segment Anything with 1 Shot in 10 Seconds) Repo",
-          "description": null,
+          "description": "ZrrSkywalker/Personalize-SAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1136,7 +1136,7 @@
         {
           "node_type": "item",
           "title": "Instruct to Act (SAM+OpenCLIP for robotics application) Repo",
-          "description": null,
+          "description": "OpenGVLab/Instruct2Act",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1163,7 +1163,7 @@
         {
           "node_type": "item",
           "title": "finetune-anything (SAM finetuning) Repo",
-          "description": null,
+          "description": "ziqi-jin/finetune-anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1189,7 +1189,7 @@
         {
           "node_type": "item",
           "title": "Detect-AnyShadow (SAM for shadow det) Repo",
-          "description": null,
+          "description": "harrytea/Detect-AnyShadow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1210,7 +1210,7 @@
         {
           "node_type": "item",
           "title": "SAD: Segment Any RGBD (SAM+Depth / SAM for RGBD) Repo",
-          "description": null,
+          "description": "Jun-CEN/SegmentAnyRGBD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1231,7 +1231,7 @@
         {
           "node_type": "item",
           "title": "SAM-HQ: Segment Anything in High Quality (High Quality Mask with SAM) Repo",
-          "description": null,
+          "description": "SysCV/sam-hq",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1244,7 +1244,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4263,
+            "stars": 4264,
             "topics": [
               "high-quality",
               "sam",
@@ -1259,7 +1259,7 @@
         {
           "node_type": "item",
           "title": "Calib-anything (SAM for calibration optimization) Repo",
-          "description": null,
+          "description": "OpenCalib/CalibAnything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1286,7 +1286,7 @@
         {
           "node_type": "item",
           "title": "Towards Segmenting Anything That Moves Repo",
-          "description": null,
+          "description": "achalddave/segment-any-moving",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1307,7 +1307,7 @@
         {
           "node_type": "item",
           "title": "SegGPT: Segmenting Everything In Context Repo",
-          "description": null,
+          "description": "baaivision/Painter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1336,7 +1336,7 @@
         {
           "node_type": "item",
           "title": "Painter Repo",
-          "description": null,
+          "description": "baaivision/Painter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1365,7 +1365,7 @@
         {
           "node_type": "item",
           "title": "Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) Repo",
-          "description": null,
+          "description": "CompVis/stable-diffusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1378,7 +1378,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73493,
+            "stars": 73494,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1386,7 +1386,7 @@
         {
           "node_type": "item",
           "title": "ControlNet (Adding Conditional Control to Text-to-Image Diffusion Models.) Repo",
-          "description": "Paper",
+          "description": "lllyasviel/ControlNet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1407,7 +1407,7 @@
         {
           "node_type": "item",
           "title": "image2text powered by CLIP and BLIP Repo",
-          "description": null,
+          "description": "pharmapsychotic/clip-interrogator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:11:27.702Z",
+    "last_updated": "2026-10-03T05:08:25.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
