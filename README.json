@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17744,
+            "stars": 17745,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -279,7 +279,7 @@
             "open_issues": 45,
             "owner": "sail-sg",
             "repo": "EditAnything",
-            "stars": 3423,
+            "stars": 3422,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -652,7 +652,7 @@
             "open_issues": 20,
             "owner": "ttengwang",
             "repo": "Caption-Anything",
-            "stars": 1778,
+            "stars": 1777,
             "topics": [
               "chatgpt",
               "controllable-generation",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7007,
+            "stars": 7006,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1107,7 +1107,7 @@
             "open_issues": 17,
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4412,
+            "stars": 4411,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1149,7 +1149,7 @@
             "open_issues": 0,
             "owner": "OpenGVLab",
             "repo": "Instruct2Act",
-            "stars": 375,
+            "stars": 376,
             "topics": [
               "chatgpt",
               "clip",
@@ -1320,7 +1320,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2599,
+            "stars": 2598,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -1349,7 +1349,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2599,
+            "stars": 2598,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -1378,7 +1378,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73495,
+            "stars": 73493,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34123,
+            "stars": 34124,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:35:32.639Z",
+    "last_updated": "2026-10-06T23:12:12.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
