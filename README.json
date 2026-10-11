@@ -19,7 +19,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54983,
+            "stars": 54985,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -279,7 +279,7 @@
             "open_issues": 45,
             "owner": "sail-sg",
             "repo": "EditAnything",
-            "stars": 3423,
+            "stars": 3424,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -367,7 +367,7 @@
             "open_issues": 147,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8421,
+            "stars": 8423,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5886,
+            "stars": 5889,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -430,7 +430,7 @@
             "open_issues": 14,
             "owner": "lujiazho",
             "repo": "SegDrawer",
-            "stars": 397,
+            "stars": 396,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -652,7 +652,7 @@
             "open_issues": 20,
             "owner": "ttengwang",
             "repo": "Caption-Anything",
-            "stars": 1776,
+            "stars": 1775,
             "topics": [
               "chatgpt",
               "controllable-generation",
@@ -1378,7 +1378,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73485,
+            "stars": 73486,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34130,
+            "stars": 34129,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T22:52:32.679Z",
+    "last_updated": "2026-10-11T23:06:14.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
@@ -1445,7 +1445,7 @@
       "open_issues": 1,
       "owner": "JerryX1110",
       "repo": "awesome-segment-anything-extensions",
-      "stars": 348,
+      "stars": 349,
       "topics": [
         "application",
         "awesome",
