@@ -19,7 +19,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54985,
+            "stars": 54990,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17754,
+            "stars": 17757,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -70,7 +70,7 @@
             "open_issues": 12,
             "owner": "caoyunkang",
             "repo": "Segment-Any-Anomaly",
-            "stars": 843,
+            "stars": 842,
             "topics": [
               "anomaly-detection",
               "foundation",
@@ -143,7 +143,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7722,
+            "stars": 7723,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -164,7 +164,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4793,
+            "stars": 4792,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -254,7 +254,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2454,
+            "stars": 2455,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -279,7 +279,7 @@
             "open_issues": 45,
             "owner": "sail-sg",
             "repo": "EditAnything",
-            "stars": 3424,
+            "stars": 3423,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5889,
+            "stars": 5891,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -535,7 +535,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7722,
+            "stars": 7723,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -619,7 +619,7 @@
             "open_issues": 50,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3494,
+            "stars": 3496,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -652,7 +652,7 @@
             "open_issues": 20,
             "owner": "ttengwang",
             "repo": "Caption-Anything",
-            "stars": 1775,
+            "stars": 1776,
             "topics": [
               "chatgpt",
               "controllable-generation",
@@ -679,7 +679,7 @@
             "open_issues": 1,
             "owner": "MaybeShewill-CV",
             "repo": "segment-anything-u-specify",
-            "stars": 181,
+            "stars": 180,
             "topics": [
               "deep-learning",
               "instance-segmentation",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7005,
+            "stars": 7006,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1008,7 +1008,7 @@
             "open_issues": 50,
             "owner": "hitachinsk",
             "repo": "SAMed",
-            "stars": 611,
+            "stars": 610,
             "topics": [
               "medical-imaging",
               "segment-anything",
@@ -1244,7 +1244,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4264,
+            "stars": 4265,
             "topics": [
               "high-quality",
               "sam",
@@ -1378,7 +1378,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73486,
+            "stars": 73492,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34129,
+            "stars": 34126,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T23:06:14.253Z",
+    "last_updated": "2026-10-13T01:35:11.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
