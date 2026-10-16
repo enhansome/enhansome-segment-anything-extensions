@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55016,
+            "stars": 55030,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17757,
+            "stars": 17758,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -143,7 +143,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7725,
+            "stars": 7727,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -206,7 +206,7 @@
             "open_issues": 27,
             "owner": "fudan-zvg",
             "repo": "Semantic-Segment-Anything",
-            "stars": 2304,
+            "stars": 2303,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -254,7 +254,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2454,
+            "stars": 2453,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -535,7 +535,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7725,
+            "stars": 7727,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -619,7 +619,7 @@
             "open_issues": 50,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3497,
+            "stars": 3496,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7011,
+            "stars": 7010,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1378,7 +1378,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73518,
+            "stars": 73520,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34124,
+            "stars": 34125,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T22:38:30.565Z",
+    "last_updated": "2026-10-16T22:10:33.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
