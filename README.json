@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55030,
+            "stars": 55033,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17758,
+            "stars": 17760,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -143,7 +143,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7727,
+            "stars": 7726,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -164,7 +164,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4793,
+            "stars": 4792,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -279,7 +279,7 @@
             "open_issues": 45,
             "owner": "sail-sg",
             "repo": "EditAnything",
-            "stars": 3423,
+            "stars": 3424,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5892,
+            "stars": 5893,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -535,7 +535,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7727,
+            "stars": 7726,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -556,7 +556,7 @@
             "open_issues": 8,
             "owner": "aliaksandr960",
             "repo": "segment-anything-eo",
-            "stars": 449,
+            "stars": 448,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1104,10 +1104,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2025-05-07T13:36:16Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4416,
+            "stars": 4417,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1223,7 +1223,7 @@
             "open_issues": 10,
             "owner": "Jun-CEN",
             "repo": "SegmentAnyRGBD",
-            "stars": 867,
+            "stars": 866,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1320,7 +1320,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2600,
+            "stars": 2599,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -1349,7 +1349,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2600,
+            "stars": 2599,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -1378,7 +1378,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73520,
+            "stars": 73527,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34125,
+            "stars": 34123,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1420,7 +1420,7 @@
             "open_issues": 60,
             "owner": "pharmapsychotic",
             "repo": "clip-interrogator",
-            "stars": 2986,
+            "stars": 2987,
             "topics": [
               "clip",
               "pytorch"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:10:33.299Z",
+    "last_updated": "2026-10-17T21:39:52.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
