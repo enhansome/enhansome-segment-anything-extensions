@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55033,
+            "stars": 55034,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17760,
+            "stars": 17764,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -164,7 +164,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4792,
+            "stars": 4791,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -254,7 +254,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2453,
+            "stars": 2454,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7010,
+            "stars": 7009,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1107,7 +1107,7 @@
             "open_issues": 18,
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4417,
+            "stars": 4418,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1128,7 +1128,7 @@
             "open_issues": 40,
             "owner": "ZrrSkywalker",
             "repo": "Personalize-SAM",
-            "stars": 1673,
+            "stars": 1674,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1378,7 +1378,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73527,
+            "stars": 73529,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34123,
+            "stars": 34120,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1420,7 +1420,7 @@
             "open_issues": 60,
             "owner": "pharmapsychotic",
             "repo": "clip-interrogator",
-            "stars": 2987,
+            "stars": 2986,
             "topics": [
               "clip",
               "pytorch"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:39:52.364Z",
+    "last_updated": "2026-10-18T21:45:40.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
