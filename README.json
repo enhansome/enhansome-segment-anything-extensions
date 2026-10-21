@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55040,
+            "stars": 55042,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17774,
+            "stars": 17776,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -70,7 +70,7 @@
             "open_issues": 12,
             "owner": "caoyunkang",
             "repo": "Segment-Any-Anomaly",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "anomaly-detection",
               "foundation",
@@ -116,7 +116,7 @@
             "open_issues": 42,
             "owner": "z-x-yang",
             "repo": "Segment-and-Track-Anything",
-            "stars": 3142,
+            "stars": 3143,
             "topics": [
               "interactive-segmentation",
               "segment-anything",
@@ -164,7 +164,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4792,
+            "stars": 4791,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -367,7 +367,7 @@
             "open_issues": 147,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8425,
+            "stars": 8426,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5893,
+            "stars": 5894,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -619,7 +619,7 @@
             "open_issues": 50,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3495,
+            "stars": 3497,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7011,
+            "stars": 7012,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1034,7 +1034,7 @@
             "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 523,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1107,7 +1107,7 @@
             "open_issues": 18,
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4422,
+            "stars": 4425,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4264,
+            "stars": 4266,
             "topics": [
               "high-quality",
               "sam",
@@ -1378,7 +1378,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73529,
+            "stars": 73531,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:34:33.055Z",
+    "last_updated": "2026-10-21T22:38:54.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
@@ -1445,7 +1445,7 @@
       "open_issues": 1,
       "owner": "JerryX1110",
       "repo": "awesome-segment-anything-extensions",
-      "stars": 349,
+      "stars": 348,
       "topics": [
         "application",
         "awesome",
