@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55056,
+            "stars": 55055,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17780,
+            "stars": 17778,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -193,7 +193,7 @@
         {
           "node_type": "item",
           "title": "Semantic Segment Anything (SAM for semantic seg) Repo",
-          "description": "fudan-zvg/Semantic-Segment-Anything",
+          "description": "LogosIntelligenceLab/Semantic-Segment-Anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -202,9 +202,9 @@
             "id": 625415628,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2023-06-07T11:54:19Z",
+            "last_commit": "2026-10-24T14:08:34Z",
             "open_issues": 27,
-            "owner": "fudan-zvg",
+            "owner": "LogosIntelligenceLab",
             "repo": "Semantic-Segment-Anything",
             "stars": 2303,
             "topics": []
@@ -300,7 +300,7 @@
             "open_issues": 5,
             "owner": "RockeyCoss",
             "repo": "Prompt-Segment-Anything",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "instance-segmentation",
               "mmdetection",
@@ -367,7 +367,7 @@
             "open_issues": 147,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8427,
+            "stars": 8426,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -911,7 +911,7 @@
             "open_issues": 9,
             "owner": "Anything-of-anything",
             "repo": "Anything-3D",
-            "stars": 1635,
+            "stars": 1636,
             "topics": [
               "3d",
               "computer-vision",
@@ -1034,7 +1034,7 @@
             "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 524,
+            "stars": 526,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1107,7 +1107,7 @@
             "open_issues": 18,
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4431,
+            "stars": 4432,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1378,7 +1378,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73536,
+            "stars": 73539,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34128,
+            "stars": 34131,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1420,7 +1420,7 @@
             "open_issues": 60,
             "owner": "pharmapsychotic",
             "repo": "clip-interrogator",
-            "stars": 2986,
+            "stars": 2987,
             "topics": [
               "clip",
               "pytorch"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T22:33:29.371Z",
+    "last_updated": "2026-10-24T21:49:15.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
