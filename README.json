@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55055,
+            "stars": 55062,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17778,
+            "stars": 17782,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -95,7 +95,7 @@
             "open_issues": 8,
             "owner": "youquanl",
             "repo": "Segment-Any-Point-Cloud",
-            "stars": 637,
+            "stars": 636,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -143,7 +143,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7730,
+            "stars": 7732,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -164,7 +164,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4791,
+            "stars": 4790,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -279,7 +279,7 @@
             "open_issues": 45,
             "owner": "sail-sg",
             "repo": "EditAnything",
-            "stars": 3426,
+            "stars": 3425,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -367,7 +367,7 @@
             "open_issues": 147,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8426,
+            "stars": 8427,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5895,
+            "stars": 5897,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -535,7 +535,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7730,
+            "stars": 7732,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -619,7 +619,7 @@
             "open_issues": 50,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3500,
+            "stars": 3501,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -652,7 +652,7 @@
             "open_issues": 20,
             "owner": "ttengwang",
             "repo": "Caption-Anything",
-            "stars": 1777,
+            "stars": 1776,
             "topics": [
               "chatgpt",
               "controllable-generation",
@@ -1128,7 +1128,7 @@
             "open_issues": 40,
             "owner": "ZrrSkywalker",
             "repo": "Personalize-SAM",
-            "stars": 1675,
+            "stars": 1676,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4265,
+            "stars": 4266,
             "topics": [
               "high-quality",
               "sam",
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34131,
+            "stars": 34137,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:49:15.138Z",
+    "last_updated": "2026-10-25T21:59:53.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
