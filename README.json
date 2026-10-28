@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55069,
+            "stars": 55073,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17788,
+            "stars": 17789,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -113,7 +113,7 @@
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
             "last_commit": "2026-07-03T21:59:37Z",
-            "open_issues": 42,
+            "open_issues": 41,
             "owner": "z-x-yang",
             "repo": "Segment-and-Track-Anything",
             "stars": 3146,
@@ -164,7 +164,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4788,
+            "stars": 4787,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -206,7 +206,7 @@
             "open_issues": 27,
             "owner": "LogosIntelligenceLab",
             "repo": "Semantic-Segment-Anything",
-            "stars": 2303,
+            "stars": 2304,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -367,7 +367,7 @@
             "open_issues": 147,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8427,
+            "stars": 8426,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5902,
+            "stars": 5904,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -619,7 +619,7 @@
             "open_issues": 50,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3506,
+            "stars": 3508,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -1128,7 +1128,7 @@
             "open_issues": 40,
             "owner": "ZrrSkywalker",
             "repo": "Personalize-SAM",
-            "stars": 1677,
+            "stars": 1678,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1378,7 +1378,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73545,
+            "stars": 73549,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34138,
+            "stars": 34137,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T23:05:20.679Z",
+    "last_updated": "2026-10-28T23:27:49.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
