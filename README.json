@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55095,
+            "stars": 55098,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -116,7 +116,7 @@
             "open_issues": 41,
             "owner": "z-x-yang",
             "repo": "Segment-and-Track-Anything",
-            "stars": 3145,
+            "stars": 3146,
             "topics": [
               "interactive-segmentation",
               "segment-anything",
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5906,
+            "stars": 5907,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -619,7 +619,7 @@
             "open_issues": 50,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3510,
+            "stars": 3512,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7014,
+            "stars": 7016,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1008,7 +1008,7 @@
             "open_issues": 50,
             "owner": "hitachinsk",
             "repo": "SAMed",
-            "stars": 611,
+            "stars": 612,
             "topics": [
               "medical-imaging",
               "segment-anything",
@@ -1107,7 +1107,7 @@
             "open_issues": 19,
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4436,
+            "stars": 4439,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1128,7 +1128,7 @@
             "open_issues": 41,
             "owner": "ZrrSkywalker",
             "repo": "Personalize-SAM",
-            "stars": 1678,
+            "stars": 1679,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1378,7 +1378,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73570,
+            "stars": 73572,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34145,
+            "stars": 34150,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1420,7 +1420,7 @@
             "open_issues": 60,
             "owner": "pharmapsychotic",
             "repo": "clip-interrogator",
-            "stars": 2988,
+            "stars": 2989,
             "topics": [
               "clip",
               "pytorch"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:44:53.746Z",
+    "last_updated": "2026-11-04T00:10:26.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
