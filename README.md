@@ -13,7 +13,7 @@ Welcome to starts ⭐ & comments 💹 & sharing 😀 !!
 
 ## Recent Works
 
-* Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything) ⭐ 55,096 | 🐛 596 | 🌐 Jupyter Notebook | 📅 2024-09-18
+* Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything) ⭐ 55,098 | 🐛 596 | 🌐 Jupyter Notebook | 📅 2024-09-18
 
 The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
@@ -87,7 +87,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/3e8deb90-5f58-425d-951d-96c7c3a16461)
 
-* Mobile-SAM (faster segment-anything) [repo](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,909 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05
+* Mobile-SAM (faster segment-anything) [repo](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,911 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/4731bec8-fd46-4ccf-9286-645efc4f0546)
 
@@ -132,11 +132,11 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231364852-7af40363-e733-4bc6-9c42-e7411e105702.png)
 
-* segment-anything-and-name-it (Visual GPT + SAM) [Repo](https://github.com/Cheems-Seminar/segment-anything-and-name-it) ⭐ 419 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2023-05-19
+* segment-anything-and-name-it (Visual GPT + SAM) [Repo](https://github.com/Cheems-Seminar/segment-anything-and-name-it) ⭐ 418 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2023-05-19
 
 ![image](https://user-images.githubusercontent.com/65257938/231365544-b88a8628-c396-4263-8d7a-baa1d35717d7.png)
 
-* AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling [Repo](https://github.com/vietanhdev/anylabeling) ⭐ 3,512 | 🐛 50 | 🌐 Python | 📅 2026-08-30
+* AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling [Repo](https://github.com/vietanhdev/anylabeling) ⭐ 3,513 | 🐛 50 | 🌐 Python | 📅 2026-08-30
 
 ![image](https://user-images.githubusercontent.com/65257938/231440358-7a02df55-b578-4f82-b97e-42f9f8d93373.png)
 
@@ -204,7 +204,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/232356394-7727d33a-8d1f-4b92-9c5e-4ef6c6663d26.png)
 
-* track-anything (VOS + sam)[Repo](https://github.com/gaomingqi/Track-Anything) ⭐ 7,016 | 🐛 114 | 🌐 Python | 📅 2025-12-13
+* track-anything (VOS + sam)[Repo](https://github.com/gaomingqi/Track-Anything) ⭐ 7,017 | 🐛 114 | 🌐 Python | 📅 2025-12-13
 
 ![image](https://user-images.githubusercontent.com/65257938/232747440-cce172e1-c7bf-4ecc-9e60-b04f072af16c.png)
 
@@ -250,11 +250,11 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/7b004296-1e5e-4757-b5d4-a1b018a1ce78)
 
-* SAD: Segment Any RGBD (SAM+Depth / SAM for RGBD) [Repo](https://github.com/Jun-CEN/SegmentAnyRGBD) ⭐ 866 | 🐛 10 | 🌐 Python | 📅 2023-05-24
+* SAD: Segment Any RGBD (SAM+Depth / SAM for RGBD) [Repo](https://github.com/Jun-CEN/SegmentAnyRGBD) ⭐ 867 | 🐛 10 | 🌐 Python | 📅 2023-05-24
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/9654dc99-faaa-47c9-b0ab-6ff113ce4968)
 
-* SAM-HQ: Segment Anything in High Quality (High Quality Mask with SAM) [Repo](https://github.com/SysCV/SAM-HQ) ⭐ 4,265 | 🐛 110 | 🌐 Jupyter Notebook | 📅 2025-09-12
+* SAM-HQ: Segment Anything in High Quality (High Quality Mask with SAM) [Repo](https://github.com/SysCV/SAM-HQ) ⭐ 4,267 | 🐛 110 | 🌐 Jupyter Notebook | 📅 2025-09-12
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/26e015f7-b3b7-4bb4-9915-be8be86361fb)
 
@@ -276,7 +276,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231469147-eb3709a2-08ea-4320-a461-7589a4950683.png)
 
-* Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) [Repo](https://github.com/CompVis/stable-diffusion) ⭐ 73,573 | 🐛 620 | 🌐 Jupyter Notebook | 📅 2024-06-18
+* Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) [Repo](https://github.com/CompVis/stable-diffusion) ⭐ 73,575 | 🐛 620 | 🌐 Jupyter Notebook | 📅 2024-06-18
 
 ![image](https://user-images.githubusercontent.com/65257938/231468134-747e79ae-9325-4d63-b5a3-ad6676d92757.png)
 
@@ -284,8 +284,8 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231468301-ca80309b-1c01-474b-9631-c8297784d611.png)
 
-* image2text powered by CLIP and BLIP [Repo](https://github.com/pharmapsychotic/clip-interrogator) ⭐ 2,989 | 🐛 60 | 🌐 Python | 📅 2024-05-15
+* image2text powered by CLIP and BLIP [Repo](https://github.com/pharmapsychotic/clip-interrogator) ⭐ 2,990 | 🐛 60 | 🌐 Python | 📅 2024-05-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

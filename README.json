@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55096,
+            "stars": 55098,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5909,
+            "stars": 5911,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -598,7 +598,7 @@
             "open_issues": 10,
             "owner": "Saiyan-World",
             "repo": "grounded-segment-any-parts",
-            "stars": 419,
+            "stars": 418,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -619,7 +619,7 @@
             "open_issues": 50,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3512,
+            "stars": 3513,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7016,
+            "stars": 7017,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1223,7 +1223,7 @@
             "open_issues": 10,
             "owner": "Jun-CEN",
             "repo": "SegmentAnyRGBD",
-            "stars": 866,
+            "stars": 867,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4265,
+            "stars": 4267,
             "topics": [
               "high-quality",
               "sam",
@@ -1378,7 +1378,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73573,
+            "stars": 73575,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1420,7 +1420,7 @@
             "open_issues": 60,
             "owner": "pharmapsychotic",
             "repo": "clip-interrogator",
-            "stars": 2989,
+            "stars": 2990,
             "topics": [
               "clip",
               "pytorch"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:29:06.886Z",
+    "last_updated": "2026-11-06T00:31:10.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
