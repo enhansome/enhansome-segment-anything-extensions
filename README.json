@@ -19,7 +19,7 @@
             "open_issues": 597,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55129,
+            "stars": 55133,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17795,
+            "stars": 17796,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -254,7 +254,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2452,
+            "stars": 2451,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -619,7 +619,7 @@
             "open_issues": 51,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3523,
+            "stars": 3524,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -911,7 +911,7 @@
             "open_issues": 9,
             "owner": "Anything-of-anything",
             "repo": "Anything-3D",
-            "stars": 1639,
+            "stars": 1640,
             "topics": [
               "3d",
               "computer-vision",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7015,
+            "stars": 7016,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1320,7 +1320,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2598,
+            "stars": 2599,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -1349,7 +1349,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2598,
+            "stars": 2599,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -1378,7 +1378,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73573,
+            "stars": 73576,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34156,
+            "stars": 34157,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T00:39:26.425Z",
+    "last_updated": "2026-11-14T00:26:04.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",

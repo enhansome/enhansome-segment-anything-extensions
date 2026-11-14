@@ -13,13 +13,13 @@ Welcome to starts ⭐ & comments 💹 & sharing 😀 !!
 
 ## Recent Works
 
-* Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything) ⭐ 55,129 | 🐛 597 | 🌐 Jupyter Notebook | 📅 2024-09-18
+* Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything) ⭐ 55,133 | 🐛 597 | 🌐 Jupyter Notebook | 📅 2024-09-18
 
 The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
 ![image](https://user-images.githubusercontent.com/65257938/230819542-5e82c99a-1c5b-43a2-9118-e79cfd2b377f.png)
 
-* Grounded-Segment-Anything (Combination of Ground-DINO and Segment-Anything) [Repo](https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything) ⭐ 17,795 | 🐛 310 | 🌐 Jupyter Notebook | 📅 2024-09-05
+* Grounded-Segment-Anything (Combination of Ground-DINO and Segment-Anything) [Repo](https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything) ⭐ 17,796 | 🐛 310 | 🌐 Jupyter Notebook | 📅 2024-09-05
 
 ![image](https://user-images.githubusercontent.com/65257938/230819682-b2987eb9-24dd-467b-b7e2-203236f4c969.png)
 
@@ -65,7 +65,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230819815-f20f80db-f234-45e3-a9ce-7638c564ce22.png)
 
-* magic-copy (use SAM for foreground mask segmentation) [Repo](https://github.com/kevmo314/magic-copy) ⭐ 2,452 | 🐛 24 | 🌐 TypeScript | 📅 2024-05-06
+* magic-copy (use SAM for foreground mask segmentation) [Repo](https://github.com/kevmo314/magic-copy) ⭐ 2,451 | 🐛 24 | 🌐 TypeScript | 📅 2024-05-06
 
 ![image](https://user-images.githubusercontent.com/65257938/230820035-216af991-6cf5-4207-9a25-40e7564a3cd1.png)
 
@@ -136,7 +136,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231365544-b88a8628-c396-4263-8d7a-baa1d35717d7.png)
 
-* AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling [Repo](https://github.com/vietanhdev/anylabeling) ⭐ 3,523 | 🐛 51 | 🌐 Python | 📅 2026-08-30
+* AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling [Repo](https://github.com/vietanhdev/anylabeling) ⭐ 3,524 | 🐛 51 | 🌐 Python | 📅 2026-08-30
 
 ![image](https://user-images.githubusercontent.com/65257938/231440358-7a02df55-b578-4f82-b97e-42f9f8d93373.png)
 
@@ -190,7 +190,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/232042932-f9f9ff65-e2d1-4bbf-92ec-1e40ceb813bf.png)
 
-* Anything-3D (Segment-Anything + 3D. Let's lift the anything to 3D) [Repo](https://github.com/Anything-of-anything/Anything-3D) ⭐ 1,639 | 🐛 9 | 🌐 Python | 📅 2023-06-12
+* Anything-3D (Segment-Anything + 3D. Let's lift the anything to 3D) [Repo](https://github.com/Anything-of-anything/Anything-3D) ⭐ 1,640 | 🐛 9 | 🌐 Python | 📅 2023-06-12
 
 ![image](https://user-images.githubusercontent.com/65257938/232356082-25300903-299c-451f-aeb8-902e08ed44ed.png)
 
@@ -204,7 +204,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/232356394-7727d33a-8d1f-4b92-9c5e-4ef6c6663d26.png)
 
-* track-anything (VOS + sam)[Repo](https://github.com/gaomingqi/Track-Anything) ⭐ 7,015 | 🐛 114 | 🌐 Python | 📅 2025-12-13
+* track-anything (VOS + sam)[Repo](https://github.com/gaomingqi/Track-Anything) ⭐ 7,016 | 🐛 114 | 🌐 Python | 📅 2025-12-13
 
 ![image](https://user-images.githubusercontent.com/65257938/232747440-cce172e1-c7bf-4ecc-9e60-b04f072af16c.png)
 
@@ -268,19 +268,19 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231467307-93900825-e436-4847-a16f-8fc6d692666e.png)
 
-* SegGPT: Segmenting Everything In Context [Repo](https://github.com/baaivision/Painter) ⭐ 2,598 | 🐛 60 | 🌐 Python | 📅 2024-12-06
+* SegGPT: Segmenting Everything In Context [Repo](https://github.com/baaivision/Painter) ⭐ 2,599 | 🐛 60 | 🌐 Python | 📅 2024-12-06
 
 ![image](https://user-images.githubusercontent.com/65257938/231467850-cae7c7cd-21b6-49df-8c5d-fddd405f24ea.png)
 
-* Painter [Repo](https://github.com/baaivision/Painter) ⭐ 2,598 | 🐛 60 | 🌐 Python | 📅 2024-12-06
+* Painter [Repo](https://github.com/baaivision/Painter) ⭐ 2,599 | 🐛 60 | 🌐 Python | 📅 2024-12-06
 
 ![image](https://user-images.githubusercontent.com/65257938/231469147-eb3709a2-08ea-4320-a461-7589a4950683.png)
 
-* Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) [Repo](https://github.com/CompVis/stable-diffusion) ⭐ 73,573 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18
+* Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) [Repo](https://github.com/CompVis/stable-diffusion) ⭐ 73,576 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18
 
 ![image](https://user-images.githubusercontent.com/65257938/231468134-747e79ae-9325-4d63-b5a3-ad6676d92757.png)
 
-* ControlNet (Adding Conditional Control to Text-to-Image Diffusion Models.) [Repo](https://github.com/lllyasviel/ControlNet) ⭐ 34,156 | 🐛 461 | 🌐 Python | 📅 2024-02-25 [Paper](https://arxiv.org/abs/2302.05543)
+* ControlNet (Adding Conditional Control to Text-to-Image Diffusion Models.) [Repo](https://github.com/lllyasviel/ControlNet) ⭐ 34,157 | 🐛 461 | 🌐 Python | 📅 2024-02-25 [Paper](https://arxiv.org/abs/2302.05543)
 
 ![image](https://user-images.githubusercontent.com/65257938/231468301-ca80309b-1c01-474b-9631-c8297784d611.png)
 
@@ -288,4 +288,4 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
