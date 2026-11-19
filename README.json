@@ -16,10 +16,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2024-09-18T17:46:55Z",
-            "open_issues": 597,
+            "open_issues": 598,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55150,
+            "stars": 55155,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -254,7 +254,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2450,
+            "stars": 2448,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -367,7 +367,7 @@
             "open_issues": 147,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8436,
+            "stars": 8435,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -451,7 +451,7 @@
             "open_issues": 12,
             "owner": "MIC-DKFZ",
             "repo": "napari-sam",
-            "stars": 250,
+            "stars": 249,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -785,7 +785,7 @@
             "open_issues": 19,
             "owner": "showlab",
             "repo": "Image2Paragraph",
-            "stars": 820,
+            "stars": 819,
             "topics": [
               "chatgpt",
               "gpt4",
@@ -980,7 +980,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7014,
+            "stars": 7013,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -1244,7 +1244,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4267,
+            "stars": 4268,
             "topics": [
               "high-quality",
               "sam",
@@ -1378,7 +1378,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73575,
+            "stars": 73582,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34157,
+            "stars": 34158,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:49:44.018Z",
+    "last_updated": "2026-11-19T01:25:24.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
