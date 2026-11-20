@@ -13,13 +13,13 @@ Welcome to starts ⭐ & comments 💹 & sharing 😀 !!
 
 ## Recent Works
 
-* Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything) ⭐ 55,155 | 🐛 598 | 🌐 Jupyter Notebook | 📅 2024-09-18
+* Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything) ⭐ 55,165 | 🐛 598 | 🌐 Jupyter Notebook | 📅 2024-09-18
 
 The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
 ![image](https://user-images.githubusercontent.com/65257938/230819542-5e82c99a-1c5b-43a2-9118-e79cfd2b377f.png)
 
-* Grounded-Segment-Anything (Combination of Ground-DINO and Segment-Anything) [Repo](https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything) ⭐ 17,798 | 🐛 310 | 🌐 Jupyter Notebook | 📅 2024-09-05
+* Grounded-Segment-Anything (Combination of Ground-DINO and Segment-Anything) [Repo](https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything) ⭐ 17,795 | 🐛 310 | 🌐 Jupyter Notebook | 📅 2024-09-05
 
 ![image](https://user-images.githubusercontent.com/65257938/230819682-b2987eb9-24dd-467b-b7e2-203236f4c969.png)
 
@@ -29,9 +29,9 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/320a7fb4-cb2b-447c-8013-b4a4610b0b02)
 
-* Segment-Any-Anomaly (SAM + GroudingDINO for anomaly detection)[Repo](https://github.com/caoyunkang/Segment-Any-Anomaly) ⭐ 839 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-02-22
+* Segment-Any-Anomaly (SAM + GroudingDINO for anomaly detection)[Repo](https://github.com/caoyunkang/Segment-Any-Anomaly) ⭐ 838 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-02-22
 
-* Segment Any Point Cloud Sequences (SAM for self-supervised learning on large-scale 3D point clouds) [Repo](https://github.com/youquanl/Segment-Any-Point-Cloud) ⭐ 636 | 🐛 8 | 🌐 Python | 📅 2023-12-16 [ArXiv](https://arxiv.org/abs/2306.09347) [Page](https://ldkong.com/Seal)
+* Segment Any Point Cloud Sequences (SAM for self-supervised learning on large-scale 3D point clouds) [Repo](https://github.com/youquanl/Segment-Any-Point-Cloud) ⭐ 635 | 🐛 8 | 🌐 Python | 📅 2023-12-16 [ArXiv](https://arxiv.org/abs/2306.09347) [Page](https://ldkong.com/Seal)
 
   ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/01b9f025-7a40-4b37-ba60-45e90f27c68f)
 
@@ -41,7 +41,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/232959211-6ee84ad5-a02d-44ca-91d2-17d12b978fb2.png)
 
-* Inpaint/Remove/Fill-Anything (image inpainting meets sam) [Repo](https://github.com/geekyutao/Inpaint-Anything) ⭐ 7,738 | 🐛 114 | 🌐 Jupyter Notebook | 📅 2026-08-22
+* Inpaint/Remove/Fill-Anything (image inpainting meets sam) [Repo](https://github.com/geekyutao/Inpaint-Anything) ⭐ 7,739 | 🐛 114 | 🌐 Jupyter Notebook | 📅 2026-08-22
 
 ![image](https://user-images.githubusercontent.com/65257938/233364976-ce36b0bf-3886-47db-a4ec-f97520da6523.png)
 
@@ -61,7 +61,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231338058-34f36f1d-4aad-404d-8c0c-13a5de3b14c0.png)
 
-* segment-anything-with-clip (SAM + CLIP) [Repo](https://github.com/Curt-Park/segment-anything-with-clip) ⭐ 354 | 🐛 4 | 🌐 Python | 📅 2024-02-19
+* segment-anything-with-clip (SAM + CLIP) [Repo](https://github.com/Curt-Park/segment-anything-with-clip) ⭐ 353 | 🐛 4 | 🌐 Python | 📅 2024-02-19
 
 ![image](https://user-images.githubusercontent.com/65257938/230819815-f20f80db-f234-45e3-a9ce-7638c564ce22.png)
 
@@ -83,7 +83,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230820243-c301554b-bccb-477f-aa28-f69865f6afeb.png)
 
-* Fast-SAM (fast segment-anything) [repo](https://github.com/CASIA-IVA-Lab/FastSAM) ⭐ 8,435 | 🐛 147 | 🌐 Python | 📅 2024-07-30
+* Fast-SAM (fast segment-anything) [repo](https://github.com/CASIA-IVA-Lab/FastSAM) ⭐ 8,436 | 🐛 147 | 🌐 Python | 📅 2024-07-30
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/3e8deb90-5f58-425d-951d-96c7c3a16461)
 
@@ -116,7 +116,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231332215-abacbf73-f2af-4ec9-a36f-0d6d973406ee.png)
 
-* inpainting-anything (SAM + inpainting) [Repo](https://github.com/geekyutao/Inpaint-Anything) ⭐ 7,738 | 🐛 114 | 🌐 Jupyter Notebook | 📅 2026-08-22
+* inpainting-anything (SAM + inpainting) [Repo](https://github.com/geekyutao/Inpaint-Anything) ⭐ 7,739 | 🐛 114 | 🌐 Jupyter Notebook | 📅 2026-08-22
 
 ![image](https://user-images.githubusercontent.com/65257938/231332320-d8d43a47-e416-404a-bab9-a4bfc7bf82f3.png)
 
@@ -136,11 +136,11 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231365544-b88a8628-c396-4263-8d7a-baa1d35717d7.png)
 
-* AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling [Repo](https://github.com/vietanhdev/anylabeling) ⭐ 3,534 | 🐛 51 | 🌐 Python | 📅 2026-08-30
+* AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling [Repo](https://github.com/vietanhdev/anylabeling) ⭐ 3,533 | 🐛 51 | 🌐 Python | 📅 2026-08-30
 
 ![image](https://user-images.githubusercontent.com/65257938/231440358-7a02df55-b578-4f82-b97e-42f9f8d93373.png)
 
-* Caption-anything (Segment Anything + Visual Captioning + ChatGPT) [Repo](https://github.com/ttengwang/Caption-Anything) ⭐ 1,776 | 🐛 20 | 🌐 Python | 📅 2023-08-29
+* Caption-anything (Segment Anything + Visual Captioning + ChatGPT) [Repo](https://github.com/ttengwang/Caption-Anything) ⭐ 1,775 | 🐛 20 | 🌐 Python | 📅 2023-08-29
 
 ![image](https://user-images.githubusercontent.com/65257938/231440778-d1ae3cf3-a0ba-448c-adfe-a6fa1648ee20.png)
 
@@ -148,7 +148,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231503241-989932a2-0d9a-4d5c-9f0f-e376c4142f04.png)
 
-* OCR-SAM (SAM for Text, Text Removal and Text Inpainting) [Repo](https://github.com/yeungchenwa/OCR-SAM) ⭐ 591 | 🐛 11 | 🌐 Python | 📅 2024-01-30
+* OCR-SAM (SAM for Text, Text Removal and Text Inpainting) [Repo](https://github.com/yeungchenwa/OCR-SAM) ⭐ 589 | 🐛 11 | 🌐 Python | 📅 2024-01-30
 
 ![image](https://user-images.githubusercontent.com/65257938/231627848-0bc2b802-d273-4dce-875f-719db28fc7f2.png)
 
@@ -170,7 +170,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231687136-b4a393ff-c5e1-4812-9296-7d7aa656283e.png)
 
-* Transform Image Into Unique Paragraph (ChatGPT+SAM+BLIP) [Repo](https://github.com/showlab/Image2Paragraph) ⭐ 819 | 🐛 19 | 🌐 Python | 📅 2023-04-28
+* Transform Image Into Unique Paragraph (ChatGPT+SAM+BLIP) [Repo](https://github.com/showlab/Image2Paragraph) ⭐ 820 | 🐛 19 | 🌐 Python | 📅 2023-04-28
 
 ![image](https://user-images.githubusercontent.com/65257938/231750419-7194770c-30a2-417d-8467-3901c8a8f3e0.png)
 
@@ -204,7 +204,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/232356394-7727d33a-8d1f-4b92-9c5e-4ef6c6663d26.png)
 
-* track-anything (VOS + sam)[Repo](https://github.com/gaomingqi/Track-Anything) ⭐ 7,013 | 🐛 114 | 🌐 Python | 📅 2025-12-13
+* track-anything (VOS + sam)[Repo](https://github.com/gaomingqi/Track-Anything) ⭐ 7,014 | 🐛 114 | 🌐 Python | 📅 2025-12-13
 
 ![image](https://user-images.githubusercontent.com/65257938/232747440-cce172e1-c7bf-4ecc-9e60-b04f072af16c.png)
 
@@ -222,9 +222,9 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/234734142-06a58f22-3823-4027-a34a-2b25c7e7a9d9.png)
 
-* MedSAM (SAM for medicine, training tutorial) [Repo](https://github.com/bowang-lab/MedSAM#model-training-video-tutorial) ⭐ 4,450 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2025-05-07
+* MedSAM (SAM for medicine, training tutorial) [Repo](https://github.com/bowang-lab/MedSAM#model-training-video-tutorial) ⭐ 4,452 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2025-05-07
 
-* Personalize-SAM (Personalize Segment Anything with 1 Shot in 10 Seconds) [Repo](https://github.com/ZrrSkywalker/Personalize-SAM) ⭐ 1,680 | 🐛 41 | 🌐 Python | 📅 2024-07-22
+* Personalize-SAM (Personalize Segment Anything with 1 Shot in 10 Seconds) [Repo](https://github.com/ZrrSkywalker/Personalize-SAM) ⭐ 1,681 | 🐛 41 | 🌐 Python | 📅 2024-07-22
   ![image](https://user-images.githubusercontent.com/65257938/236376431-cf9d1c17-c37b-4742-9660-3abcb9f606ef.png)
 
 * Segment Any Moving Object with Moving Ego Vehicle (SAM for multi-object segmentation)  [arXiv](https://arxiv.org/pdf/2305.00126.pdf)
@@ -238,7 +238,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/10a80ded-4799-48af-947b-e09f52e5353b)
 
-* finetune-anything (SAM finetuning) [Repo](https://github.com/ziqi-jin/finetune-anything) ⭐ 867 | 🐛 33 | 🌐 Python | 📅 2023-08-05
+* finetune-anything (SAM finetuning) [Repo](https://github.com/ziqi-jin/finetune-anything) ⭐ 866 | 🐛 33 | 🌐 Python | 📅 2023-08-05
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/ca0cd7a7-8fd8-40c4-8388-e2f099f3df3a)
 
@@ -250,7 +250,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/7b004296-1e5e-4757-b5d4-a1b018a1ce78)
 
-* SAD: Segment Any RGBD (SAM+Depth / SAM for RGBD) [Repo](https://github.com/Jun-CEN/SegmentAnyRGBD) ⭐ 868 | 🐛 10 | 🌐 Python | 📅 2023-05-24
+* SAD: Segment Any RGBD (SAM+Depth / SAM for RGBD) [Repo](https://github.com/Jun-CEN/SegmentAnyRGBD) ⭐ 866 | 🐛 10 | 🌐 Python | 📅 2023-05-24
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/9654dc99-faaa-47c9-b0ab-6ff113ce4968)
 
@@ -268,24 +268,24 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231467307-93900825-e436-4847-a16f-8fc6d692666e.png)
 
-* SegGPT: Segmenting Everything In Context [Repo](https://github.com/baaivision/Painter) ⭐ 2,597 | 🐛 60 | 🌐 Python | 📅 2024-12-06
+* SegGPT: Segmenting Everything In Context [Repo](https://github.com/baaivision/Painter) ⭐ 2,596 | 🐛 60 | 🌐 Python | 📅 2024-12-06
 
 ![image](https://user-images.githubusercontent.com/65257938/231467850-cae7c7cd-21b6-49df-8c5d-fddd405f24ea.png)
 
-* Painter [Repo](https://github.com/baaivision/Painter) ⭐ 2,597 | 🐛 60 | 🌐 Python | 📅 2024-12-06
+* Painter [Repo](https://github.com/baaivision/Painter) ⭐ 2,596 | 🐛 60 | 🌐 Python | 📅 2024-12-06
 
 ![image](https://user-images.githubusercontent.com/65257938/231469147-eb3709a2-08ea-4320-a461-7589a4950683.png)
 
-* Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) [Repo](https://github.com/CompVis/stable-diffusion) ⭐ 73,582 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18
+* Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) [Repo](https://github.com/CompVis/stable-diffusion) ⭐ 73,583 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18
 
 ![image](https://user-images.githubusercontent.com/65257938/231468134-747e79ae-9325-4d63-b5a3-ad6676d92757.png)
 
-* ControlNet (Adding Conditional Control to Text-to-Image Diffusion Models.) [Repo](https://github.com/lllyasviel/ControlNet) ⭐ 34,158 | 🐛 461 | 🌐 Python | 📅 2024-02-25 [Paper](https://arxiv.org/abs/2302.05543)
+* ControlNet (Adding Conditional Control to Text-to-Image Diffusion Models.) [Repo](https://github.com/lllyasviel/ControlNet) ⭐ 34,155 | 🐛 461 | 🌐 Python | 📅 2024-02-25 [Paper](https://arxiv.org/abs/2302.05543)
 
 ![image](https://user-images.githubusercontent.com/65257938/231468301-ca80309b-1c01-474b-9631-c8297784d611.png)
 
-* image2text powered by CLIP and BLIP [Repo](https://github.com/pharmapsychotic/clip-interrogator) ⭐ 2,990 | 🐛 60 | 🌐 Python | 📅 2024-05-15
+* image2text powered by CLIP and BLIP [Repo](https://github.com/pharmapsychotic/clip-interrogator) ⭐ 2,989 | 🐛 60 | 🌐 Python | 📅 2024-05-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
