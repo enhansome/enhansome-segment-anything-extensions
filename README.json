@@ -19,7 +19,7 @@
             "open_issues": 598,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55165,
+            "stars": 55168,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -95,7 +95,7 @@
             "open_issues": 8,
             "owner": "youquanl",
             "repo": "Segment-Any-Point-Cloud",
-            "stars": 635,
+            "stars": 636,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5922,
+            "stars": 5923,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -619,7 +619,7 @@
             "open_issues": 51,
             "owner": "vietanhdev",
             "repo": "anylabeling",
-            "stars": 3533,
+            "stars": 3534,
             "topics": [
               "auto-labeling",
               "computer-vision",
@@ -858,7 +858,7 @@
             "open_issues": 82,
             "owner": "open-mmlab",
             "repo": "playground",
-            "stars": 1232,
+            "stars": 1231,
             "topics": [
               "mmdetection",
               "mmocr",
@@ -1107,7 +1107,7 @@
             "open_issues": 19,
             "owner": "bowang-lab",
             "repo": "MedSAM",
-            "stars": 4452,
+            "stars": 4453,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4268,
+            "stars": 4267,
             "topics": [
               "high-quality",
               "sam",
@@ -1378,7 +1378,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73583,
+            "stars": 73589,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34155,
+            "stars": 34157,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1420,7 +1420,7 @@
             "open_issues": 60,
             "owner": "pharmapsychotic",
             "repo": "clip-interrogator",
-            "stars": 2989,
+            "stars": 2990,
             "topics": [
               "clip",
               "pytorch"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:25:03.557Z",
+    "last_updated": "2026-11-21T00:55:34.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",
