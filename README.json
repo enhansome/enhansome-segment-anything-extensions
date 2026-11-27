@@ -19,7 +19,7 @@
             "open_issues": 598,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55182,
+            "stars": 55183,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17797,
+            "stars": 17799,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -70,7 +70,7 @@
             "open_issues": 12,
             "owner": "caoyunkang",
             "repo": "Segment-Any-Anomaly",
-            "stars": 838,
+            "stars": 837,
             "topics": [
               "anomaly-detection",
               "foundation",
@@ -116,7 +116,7 @@
             "open_issues": 41,
             "owner": "z-x-yang",
             "repo": "Segment-and-Track-Anything",
-            "stars": 3148,
+            "stars": 3147,
             "topics": [
               "interactive-segmentation",
               "segment-anything",
@@ -254,7 +254,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2448,
+            "stars": 2447,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -367,7 +367,7 @@
             "open_issues": 147,
             "owner": "CASIA-LMC-Lab",
             "repo": "FastSAM",
-            "stars": 8447,
+            "stars": 8448,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -388,7 +388,7 @@
             "open_issues": 119,
             "owner": "ChaoningZhang",
             "repo": "MobileSAM",
-            "stars": 5928,
+            "stars": 5931,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -652,7 +652,7 @@
             "open_issues": 20,
             "owner": "ttengwang",
             "repo": "Caption-Anything",
-            "stars": 1776,
+            "stars": 1777,
             "topics": [
               "chatgpt",
               "controllable-generation",
@@ -1378,7 +1378,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73612,
+            "stars": 73614,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:49.921Z"
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:23:47.132Z",
+    "last_updated": "2026-11-27T02:21:49.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "Segment-anything related awesome extensions/projects/repos.",

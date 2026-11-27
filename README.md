@@ -13,13 +13,13 @@ Welcome to starts ⭐ & comments 💹 & sharing 😀 !!
 
 ## Recent Works
 
-* Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything) ⭐ 55,182 | 🐛 598 | 🌐 Jupyter Notebook | 📅 2024-09-18
+* Segment Anything Model (SAM) official [Repo](https://github.com/facebookresearch/segment-anything) ⭐ 55,183 | 🐛 598 | 🌐 Jupyter Notebook | 📅 2024-09-18
 
 The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
 ![image](https://user-images.githubusercontent.com/65257938/230819542-5e82c99a-1c5b-43a2-9118-e79cfd2b377f.png)
 
-* Grounded-Segment-Anything (Combination of Ground-DINO and Segment-Anything) [Repo](https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything) ⭐ 17,797 | 🐛 310 | 🌐 Jupyter Notebook | 📅 2024-09-05
+* Grounded-Segment-Anything (Combination of Ground-DINO and Segment-Anything) [Repo](https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything) ⭐ 17,799 | 🐛 310 | 🌐 Jupyter Notebook | 📅 2024-09-05
 
 ![image](https://user-images.githubusercontent.com/65257938/230819682-b2987eb9-24dd-467b-b7e2-203236f4c969.png)
 
@@ -29,7 +29,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/320a7fb4-cb2b-447c-8013-b4a4610b0b02)
 
-* Segment-Any-Anomaly (SAM + GroudingDINO for anomaly detection)[Repo](https://github.com/caoyunkang/Segment-Any-Anomaly) ⭐ 838 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-02-22
+* Segment-Any-Anomaly (SAM + GroudingDINO for anomaly detection)[Repo](https://github.com/caoyunkang/Segment-Any-Anomaly) ⭐ 837 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-02-22
 
 * Segment Any Point Cloud Sequences (SAM for self-supervised learning on large-scale 3D point clouds) [Repo](https://github.com/youquanl/Segment-Any-Point-Cloud) ⭐ 636 | 🐛 8 | 🌐 Python | 📅 2023-12-16 [ArXiv](https://arxiv.org/abs/2306.09347) [Page](https://ldkong.com/Seal)
 
@@ -37,7 +37,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230824120-4efa057e-6a0f-41d5-b995-768496d1edcc.png)
 
-* Segment and Track Anything (SAM-Track) [Repo](https://github.com/z-x-yang/Segment-and-Track-Anything) ⭐ 3,148 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2026-07-03 [ArXiv](https://arxiv.org/abs/2305.06558)
+* Segment and Track Anything (SAM-Track) [Repo](https://github.com/z-x-yang/Segment-and-Track-Anything) ⭐ 3,147 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2026-07-03 [ArXiv](https://arxiv.org/abs/2305.06558)
 
 ![image](https://user-images.githubusercontent.com/65257938/232959211-6ee84ad5-a02d-44ca-91d2-17d12b978fb2.png)
 
@@ -65,7 +65,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230819815-f20f80db-f234-45e3-a9ce-7638c564ce22.png)
 
-* magic-copy (use SAM for foreground mask segmentation) [Repo](https://github.com/kevmo314/magic-copy) ⭐ 2,448 | 🐛 24 | 🌐 TypeScript | 📅 2024-05-06
+* magic-copy (use SAM for foreground mask segmentation) [Repo](https://github.com/kevmo314/magic-copy) ⭐ 2,447 | 🐛 24 | 🌐 TypeScript | 📅 2024-05-06
 
 ![image](https://user-images.githubusercontent.com/65257938/230820035-216af991-6cf5-4207-9a25-40e7564a3cd1.png)
 
@@ -83,11 +83,11 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/230820243-c301554b-bccb-477f-aa28-f69865f6afeb.png)
 
-* Fast-SAM (fast segment-anything) [repo](https://github.com/CASIA-IVA-Lab/FastSAM) ⭐ 8,447 | 🐛 147 | 🌐 Python | 📅 2024-07-30
+* Fast-SAM (fast segment-anything) [repo](https://github.com/CASIA-IVA-Lab/FastSAM) ⭐ 8,448 | 🐛 147 | 🌐 Python | 📅 2024-07-30
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/3e8deb90-5f58-425d-951d-96c7c3a16461)
 
-* Mobile-SAM (faster segment-anything) [repo](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,928 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05
+* Mobile-SAM (faster segment-anything) [repo](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,931 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05
 
 ![image](https://github.com/JerryX1110/awesome-segment-anything-extensions/assets/65257938/4731bec8-fd46-4ccf-9286-645efc4f0546)
 
@@ -140,7 +140,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231440358-7a02df55-b578-4f82-b97e-42f9f8d93373.png)
 
-* Caption-anything (Segment Anything + Visual Captioning + ChatGPT) [Repo](https://github.com/ttengwang/Caption-Anything) ⭐ 1,776 | 🐛 20 | 🌐 Python | 📅 2023-08-29
+* Caption-anything (Segment Anything + Visual Captioning + ChatGPT) [Repo](https://github.com/ttengwang/Caption-Anything) ⭐ 1,777 | 🐛 20 | 🌐 Python | 📅 2023-08-29
 
 ![image](https://user-images.githubusercontent.com/65257938/231440778-d1ae3cf3-a0ba-448c-adfe-a6fa1648ee20.png)
 
@@ -276,7 +276,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ![image](https://user-images.githubusercontent.com/65257938/231469147-eb3709a2-08ea-4320-a461-7589a4950683.png)
 
-* Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) [Repo](https://github.com/CompVis/stable-diffusion) ⭐ 73,612 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18
+* Stable Diffusion (High-Resolution Image Synthesis with Latent Diffusion Models) [Repo](https://github.com/CompVis/stable-diffusion) ⭐ 73,614 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18
 
 ![image](https://user-images.githubusercontent.com/65257938/231468134-747e79ae-9325-4d63-b5a3-ad6676d92757.png)
 
@@ -288,4 +288,4 @@ The repository provides code for running inference with the SegmentAnything Mode
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
